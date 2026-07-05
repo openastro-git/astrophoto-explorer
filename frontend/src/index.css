@@ -1,0 +1,196 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto, helvetica, arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@keyframes slide-in-right {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slide-out-right {
+  from {
+    transform: translateX(0);
+    opacity: 1;
+  }
+  to {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right 0.3s ease-out;
+}
+
+.animate-slide-out-right {
+  animation: slide-out-right 0.3s ease-in;
+}
+
+:root, .theme-deep-space {
+  --slate-50: 248 250 252;
+  --slate-100: 241 245 249;
+  --slate-200: 226 232 240;
+  --slate-300: 203 213 225;
+  --slate-400: 148 163 184;
+  --slate-500: 100 116 139;
+  --slate-600: 71 85 105;
+  --slate-700: 51 65 85;
+  --slate-800: 30 41 59;
+  --slate-900: 15 23 42;
+  --slate-950: 2 6 23;
+
+  --cyan-50: 236 254 255;
+  --cyan-100: 207 250 254;
+  --cyan-200: 165 243 252;
+  --cyan-300: 103 232 249;
+  --cyan-400: 34 211 238;
+  --cyan-500: 6 182 212;
+  --cyan-600: 8 145 178;
+  --cyan-700: 14 116 144;
+  --cyan-800: 21 94 117;
+  --cyan-900: 22 78 99;
+  --cyan-950: 8 47 73;
+}
+
+.theme-nordic-frost {
+  --slate-50: 245 247 250;
+  --slate-100: 236 239 244;
+  --slate-200: 229 233 240;
+  --slate-300: 216 222 233;
+  --slate-400: 163 190 140;
+  --slate-500: 94 129 172;
+  --slate-600: 76 86 106;
+  --slate-700: 67 76 94;
+  --slate-800: 59 66 82;
+  --slate-900: 46 52 64;
+  --slate-950: 40 46 56;
+
+  --cyan-50: 236 239 244;
+  --cyan-100: 229 233 240;
+  --cyan-200: 216 222 233;
+  --cyan-300: 129 161 193;
+  --cyan-400: 143 188 187;
+  --cyan-500: 136 192 208;
+  --cyan-600: 94 129 172;
+  --cyan-700: 67 76 94;
+  --cyan-800: 59 66 82;
+  --cyan-900: 46 52 64;
+  --cyan-950: 40 46 56;
+}
+
+.theme-everforest {
+  --slate-50: 223 212 188;
+  --slate-100: 211 198 170;
+  --slate-200: 157 169 160;
+  --slate-300: 133 146 137;
+  --slate-400: 167 192 128;
+  --slate-500: 52 63 68;
+  --slate-600: 61 72 77;
+  --slate-700: 52 63 68;
+  --slate-800: 45 53 59;
+  --slate-900: 35 42 46;
+  --slate-950: 27 34 38;
+
+  --cyan-50: 243 242 233;
+  --cyan-100: 233 230 207;
+  --cyan-200: 219 188 127;
+  --cyan-300: 219 188 127;
+  --cyan-400: 131 192 146;
+  --cyan-500: 127 187 179;
+  --cyan-600: 167 192 128;
+  --cyan-700: 131 192 146;
+  --cyan-800: 61 72 77;
+  --cyan-900: 45 53 59;
+  --cyan-950: 35 42 46;
+}
+
+.theme-night-owl {
+  --slate-50: 245 248 253;
+  --slate-100: 236 242 250;
+  --slate-200: 214 222 235;
+  --slate-300: 173 219 103;
+  --slate-400: 199 146 234;
+  --slate-500: 40 78 108;
+  --slate-600: 40 78 108;
+  --slate-700: 29 59 83;
+  --slate-800: 13 40 63;
+  --slate-900: 1 22 39;
+  --slate-950: 1 15 26;
+
+  --cyan-50: 253 254 255;
+  --cyan-100: 240 248 255;
+  --cyan-200: 214 222 235;
+  --cyan-300: 255 203 107;
+  --cyan-400: 130 170 255;
+  --cyan-500: 127 219 202;
+  --cyan-600: 199 146 234;
+  --cyan-700: 40 78 108;
+  --cyan-800: 29 59 83;
+  --cyan-900: 13 40 63;
+  --cyan-950: 1 22 39;
+}
+
+.theme-dracula-mellow {
+  --slate-50: 254 254 252;
+  --slate-100: 250 250 248;
+  --slate-200: 248 248 242;
+  --slate-300: 189 147 249;
+  --slate-400: 98 114 164;
+  --slate-500: 68 71 90;
+  --slate-600: 98 114 164;
+  --slate-700: 68 71 90;
+  --slate-800: 55 57 73;
+  --slate-900: 40 42 54;
+  --slate-950: 30 31 40;
+
+  --cyan-50: 254 250 140;
+  --cyan-100: 241 250 140;
+  --cyan-200: 189 147 249;
+  --cyan-300: 80 250 123;
+  --cyan-400: 139 233 253;
+  --cyan-500: 255 121 198;
+  --cyan-600: 241 250 140;
+  --cyan-700: 98 114 164;
+  --cyan-800: 68 71 90;
+  --cyan-900: 55 57 73;
+  --cyan-950: 40 42 54;
+}
+
+.theme-tron {
+  --slate-50: 224 251 252;
+  --slate-100: 255 255 255;
+  --slate-200: 224 251 252;
+  --slate-300: 202 240 248;
+  --slate-400: 144 224 239;
+  --slate-500: 0 180 216;
+  --slate-600: 0 119 182;
+  --slate-700: 0 78 137;
+  --slate-800: 10 22 41;
+  --slate-900: 5 10 22;
+  --slate-950: 0 4 10;
+
+  --cyan-50: 224 251 252;
+  --cyan-100: 202 240 248;
+  --cyan-200: 144 224 239;
+  --cyan-300: 0 242 255;
+  --cyan-400: 0 180 216;
+  --cyan-500: 0 242 255;
+  --cyan-600: 255 110 0;
+  --cyan-700: 0 119 182;
+  --cyan-800: 10 22 41;
+  --cyan-900: 5 10 22;
+  --cyan-950: 0 4 10;
+}

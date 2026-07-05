@@ -1,0 +1,32 @@
+{
+  "name": "astrophoto-explorer",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start:api": ".venv\\Scripts\\uvicorn backend.main:app --port 8000",
+    "start:ui": "vite",
+    "dev": "concurrently \"npm run start:api\" \"npm run start:ui\"",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "d3-geo": "^3.1.1",
+    "d3-geo-projection": "^4.0.0",
+    "lucide-react": "^1.23.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.185.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.19",
+    "concurrently": "^9.1.2",
+    "postcss": "^8.4.49",
+    "rollup-plugin-visualizer": "^7.0.1",
+    "tailwindcss": "^3.4.17",
+    "vite": "^7.3.1"
+  }
+}

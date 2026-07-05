@@ -1,0 +1,2185 @@
+{
+  "IC1": {
+    "designation": "IC1",
+    "name": "Struve 1",
+    "type": "Binary Star System",
+    "description": "Pegasus is a constellation in the northern sky, named after the winged horse Pegasus in Greek mythology. It was one of the 48 constellations listed by the 2nd-century astronomer Ptolemy, and is one of the 88 constellations recognised today. It lies just north of the celestial equator.",
+    "constellation": "Andromeda Lacerta Cygnus Vulpecula Delphinus Equuleus Aquarius Pisces"
+  },
+  "IC2": {
+    "designation": "IC2",
+    "name": "LEDA 778",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3": {
+    "designation": "IC3",
+    "name": "LEDA 836",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC4": {
+    "designation": "IC4",
+    "name": "UGC 123",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC10": {
+    "designation": "IC10",
+    "name": "UGC 192",
+    "type": "irregular galaxy",
+    "description": "IC 10 is an irregular galaxy in the constellation Cassiopeia. It was discovered by American astronomer Lewis Swift on 8 October 1887. In 1935 Nicholas Mayall became the first to suggest that the object is extragalactic. Edwin Hubble suspected it might belong to the Local Group of galaxies, but its status remained uncertain for decades. The radial velocity of IC 10 was measured in 1962, and it was found to be approaching the Milky Way at approximately 350 km/s, strengthening the evidence for its membership in the Local Group. Its membership in the group was finally confirmed in 1996 by direct measurements of its distance based on observations of Cepheids; most estimates place the galaxy 2–3 million light years from Earth, with some estimates ranging from 1. 5–4. 5 million light years. Despite its closeness, the galaxy is rather difficult to study because it lies near the plane of the Milky Way and is therefore heavily obscured by interstellar matter.",
+    "constellation": "Cassiopeia",
+    "distance": "2. 5 ± 0. 5 Mly (750 ± 150 kpc)"
+  },
+  "IC15": {
+    "designation": "IC15",
+    "name": "LEDA 165498",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC26": {
+    "designation": "IC26",
+    "name": "NGC 135",
+    "type": "lenticular galaxy",
+    "description": "This is a list of NGC objects 1–1000 from the New General Catalogue (NGC). The astronomical catalogue is composed mainly of star clusters, nebulae, and galaxies. Other objects in the catalogue can be found in the other subpages of the list of NGC objects."
+  },
+  "IC32": {
+    "designation": "IC32",
+    "name": "LEDA 2096",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC33": {
+    "designation": "IC33",
+    "name": "LEDA 2101",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC39": {
+    "designation": "IC39",
+    "name": "NGC 178",
+    "type": "Magellanic spiral galaxy",
+    "description": "NGC 178 is a Magellanic spiral galaxy in the constellation of Cetus. The compiler of the New General Catalogue, John Louis Emil Dreyer noted that NGC 178 was \"faint, small, much extended 0°, brighter middle\". It was discovered on November 3, 1885, by Ormond Stone.",
+    "constellation": "Cetus",
+    "distance": "67 Mly (20. 6 Mpc)"
+  },
+  "IC42": {
+    "designation": "IC42",
+    "name": "LEDA 2463",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC44": {
+    "designation": "IC44",
+    "name": "NGC 223",
+    "type": "spiral galaxy",
+    "description": "NGC 223 is a spiral galaxy located approximately 238 million light-years from Earth. It is located in the constellation Cetus. It was discovered on January 5, 1853, by George Bond.",
+    "constellation": "Cetus",
+    "distance": "238 Mly"
+  },
+  "IC59": {
+    "designation": "IC59",
+    "name": "Sh 2-185",
+    "type": "reflection nebula",
+    "description": "Sh 2-185 is an H II region centered on the massive star system Gamma Cassiopeiae (γ Cas) in the northern constellation of Cassiopeia. It was included in the second Catalogue of H II Regions, published in 1959 by Stewart Sharpless. Sh 2-185 is located at a distance of approximately 10, 500 ly (3. 23 kpc) from the Sun. The region is surrounded by a dust shell, and displays several infrared point sources that are a characteristics of young stellar objects.",
+    "distance": "10, 500 ± 2, 100 ly",
+    "constellation": "Cassiopeia"
+  },
+  "IC63": {
+    "designation": "IC63",
+    "name": "Sh 2-185",
+    "type": "emission nebula",
+    "description": "Sh 2-185 is an H II region centered on the massive star system Gamma Cassiopeiae (γ Cas) in the northern constellation of Cassiopeia. It was included in the second Catalogue of H II Regions, published in 1959 by Stewart Sharpless. Sh 2-185 is located at a distance of approximately 10, 500 ly (3. 23 kpc) from the Sun. The region is surrounded by a dust shell, and displays several infrared point sources that are a characteristics of young stellar objects.",
+    "distance": "10, 500 ± 2, 100 ly",
+    "constellation": "Cassiopeia"
+  },
+  "IC64": {
+    "designation": "IC64",
+    "name": "UGC 613",
+    "type": "lenticular galaxy",
+    "description": "IC 64 is a massive lenticular galaxy located 622 million light-years away in the Pisces constellation. IC 64 has a diameter of 300, 000 light-years, making it, three times bigger than the Milky Way and one of the largest galaxies observed. IC 64 was discovered by French astronomer Stephane Javelle on 5 December 1893. It has an active galactic nucleus, and is an emission line galaxy.",
+    "constellation": "Pisces",
+    "distance": "622 Mly (190. 7 Mpc)"
+  },
+  "IC70": {
+    "designation": "IC70",
+    "name": "LEDA 173286",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC88": {
+    "designation": "IC88",
+    "name": "LEDA 1175571",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC89": {
+    "designation": "IC89",
+    "name": "NGC 446",
+    "type": "lenticular galaxy",
+    "description": "NGC 446 is a lenticular galaxy of type (R) SAB0^0 located in the constellation Pisces. It was first discovered on October 23, 1864, by Albert Marth (and later listed as NGC 446); it was also seen on August 20, 1892, by Stéphane Javelle (and later listed as IC 89). It was described by Dreyer as \"faint, very small, stellar.\"",
+    "constellation": "Pisces"
+  },
+  "IC95": {
+    "designation": "IC95",
+    "name": "LEDA 950887",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC101": {
+    "designation": "IC101",
+    "name": "UGC 949",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC102": {
+    "designation": "IC102",
+    "name": "UGC 954",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC106": {
+    "designation": "IC106",
+    "name": "NGC 530",
+    "type": "lenticular galaxy",
+    "description": "NGC 530, also known as IC 106, is a lenticular galaxy in the constellation Cetus. It is approximately 226 million light years from the Milky Way and has a diameter of around 140, 000 light years. The object was discovered on November 20, 1886, by the American astronomer Lewis A. Swift, who listed it as NGC 530, and rediscovered on November 16, 1887, by Guillaume Bigourdan, who listed it as IC 106. It is a member of the Abell 194 galaxy cluster.",
+    "constellation": "Cetus",
+    "distance": "230 Mly (71 Mpc)"
+  },
+  "IC108": {
+    "designation": "IC108",
+    "name": "LEDA 5205",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC158": {
+    "designation": "IC158",
+    "name": "LEDA 144318",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC165": {
+    "designation": "IC165",
+    "name": "NGC 684",
+    "type": "spiral galaxy",
+    "description": "NGC 684 is a spiral galaxy approximately 135 million light-years away from Earth in the constellation of Triangulum. It was discovered by William Herschel on October 26, 1786. Edward Swift, Lewis' son, found this galaxy again on 18 Jan 1890 while \"searching for Swift's Comet.\" and it was reported as a new object in list IX-6.",
+    "constellation": "Triangulum",
+    "distance": "135. 03 ± 3. 13 Mly (41. 400 ± 0. 960 Mpc)"
+  },
+  "IC167": {
+    "designation": "IC167",
+    "name": "UGC 1313",
+    "type": "barred spiral galaxy",
+    "description": "IC 167 is a barred spiral galaxy in the constellation of Aries. It was first reported by Bigourdan in 1891 and included in Dreyer's first Index Catalogue.",
+    "constellation": "Aries"
+  },
+  "IC189": {
+    "designation": "IC189",
+    "name": "LEDA 7716",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC226": {
+    "designation": "IC226",
+    "name": "UGC 1922",
+    "type": "spiral galaxy",
+    "description": "UGC 1922 also known as IC 226, is a giant spiral galaxy of low surface brightness located in the constellation of Triangulum. The redshift of the galaxy is (z) 0. 036 and it was first discovered in December 1891, by the Austrian astronomer named Rudolph Spitaler who described it as a faint object with a small bright center. It is part of the galaxy group called LDCE 0163.",
+    "constellation": "Triangulum",
+    "distance": "513 Mly (157. 32 Mpc)"
+  },
+  "IC239": {
+    "designation": "IC239",
+    "name": "UGC 2080",
+    "type": "spiral galaxy",
+    "description": "IC 239 is a spiral galaxy in the constellation Andromeda. The galaxy lies about 35 million light years away from Earth, which means, given its apparent dimensions, that IC 239 is approximately 50, 000 light years across. It was discovered by Isaac Roberts in 1893.",
+    "constellation": "Andromeda",
+    "distance": "36. 8 ± 5. 1 Mly (11. 3 ± 1. 6 Mpc)"
+  },
+  "IC282": {
+    "designation": "IC282",
+    "name": "NGC 1198",
+    "type": "elliptical galaxy",
+    "description": "NGC 1198 is an elliptical galaxy in the constellation of Perseus. Its velocity with respect to the cosmic microwave background is 1419 ± 14 km/s, which corresponds to a Hubble distance of 20. 92 ± 1. 48 Mpc (~68 million light-years). It was discovered by French astronomer Édouard Stephan on 6 December 1880. This galaxy was also observed by the American astronomer Lewis Swift on 27 October 1888, and was later added to the Index Catalogue as IC 282.",
+    "constellation": "Perseus",
+    "distance": "68. 2 ± 4. 8 Mly (20. 92 ± 1. 48 Mpc)"
+  },
+  "IC289": {
+    "designation": "IC289",
+    "name": "IC 289",
+    "type": "planetary nebula",
+    "description": "IC 289 is a planetary nebula in the constellation Cassiopeia. It was discovered by Lewis Swift in early September 1888. It lies close to the 10th magnitude star BD +60° 0631. N. J. Martin described IC 289 as \"A nice, faint round planet like planetary nebula. The uniform oval disc shows some irregularity in brightness but is not obviously brighter at the edge.\" [ citation needed ]",
+    "distance": "5, 190 ± 500 ly (1, 592 ± 153 pc) ly",
+    "constellation": "Cassiopeia"
+  },
+  "IC298": {
+    "designation": "IC298",
+    "name": "Arp 147",
+    "type": "interacting galaxies",
+    "description": "Arp 147 (also known as IC 298) is an interacting pair of ring galaxies. It lies 430 million to 440 million light years away in the constellation Cetus and does not appear to be part of any significant galaxy group. The system was originally discovered in 1893 by Stephane Javelle and is listed in the Atlas of Peculiar Galaxies.",
+    "constellation": "Cetus",
+    "distance": "430–440 Mly (134. 9 mpc)"
+  },
+  "IC310": {
+    "designation": "IC310",
+    "name": "UGC 2624",
+    "type": "lenticular galaxy",
+    "description": "IC 310 is a lenticular galaxy located in the constellation Perseus. It is located 265 million light-years from Earth, which means, given its apparent dimensions, it is about 117, 000 light-years across. The galaxy was discovered by Edward D. Swift on November 3, 1888.",
+    "constellation": "Perseus",
+    "distance": "265 Mly (81. 2 Mpc)"
+  },
+  "IC335": {
+    "designation": "IC335",
+    "name": "LEDA 13277",
+    "type": "lenticular galaxy",
+    "description": "IC 335 is an edge-on lenticular galaxy about 60 million light years (18 million parsecs) away, in the constellation Fornax. It is part of the Fornax Cluster.",
+    "constellation": "Fornax",
+    "distance": "59. 06 ± 12. 77 Mly (18. 107 ± 3. 914 Mpc)"
+  },
+  "IC342": {
+    "designation": "IC342",
+    "name": "UGC 2847",
+    "type": "intermediate spiral galaxy",
+    "description": "IC 342 (also known as Caldwell 5) is an intermediate spiral galaxy in the constellation Camelopardalis, located relatively close to the Milky Way. Despite its size and actual brightness, its location behind dusty areas near the galactic equator makes it difficult to observe, leading to the nickname \" The Hidden Galaxy \", though it can readily be detected even with binoculars. If the galaxy were not obscured, it would be visible by naked eye [ citation needed ]. The dust makes it difficult to determine its precise distance; modern estimates range from about 7 million light-years (Mly) to about 11 Mly. The galaxy was discovered by William Frederick Denning in 1892. It is one of the brightest in the IC 342/Maffei Group, one of the closest galaxy groups to the Local Group. Edwin Hubble first thought it to be in the Local Group, but it was later determined not to be a member.",
+    "constellation": "Camelopardalis",
+    "distance": "10. 7 ± 0. 9 Mly (3. 3 ± 0. 3 Mpc)"
+  },
+  "IC348": {
+    "designation": "IC348",
+    "name": "Collinder 41",
+    "type": "open cluster",
+    "description": "IC 348 is a star-forming region in the constellation Perseus located about 1, 000 light years from the Sun. Together with NGC 1333 it is part of the Perseus molecular cloud. It consists of nebulosity and an associated 2-million-year-old cluster of roughly 400 stars within an angular diameter of 20″. A later work found an older age of about 5 Million years. The most massive stars in the cluster are the binary star system HD 281159 (BD+31°643), which has a combined spectral class of B5, and is surrounded by an accretion disk. This binary is surrounded by an incomplete spherical shell open to the northwest, 50, 000 AU in diameter, seen in infrared images of Spitzer and JWST.",
+    "distance": "1, 028 ly (315 pc)",
+    "constellation": "Perseus"
+  },
+  "IC349": {
+    "designation": "IC349",
+    "name": "Ced 19i",
+    "type": "reflection nebula",
+    "description": "IC 349, also known as Barnard's Merope Nebula, is a nebula which lies 3500 AUs (0. 06 light years) from the star Merope in the Pleiades cluster.",
+    "distance": "440 ly (135 pc)",
+    "constellation": "Taurus"
+  },
+  "IC361": {
+    "designation": "IC361",
+    "name": "Collinder 48",
+    "type": "open cluster",
+    "description": "IC 361, also called Melotte 24 is an open cluster of stars in the constellation Camelopardalis. It was discovered by the British amateur astronomer William F. Denning on February 11, 1893. This cluster is located at a distance of 10, 500 ± 230 light-years from the Sun. It is very faint with an apparent visual magnitude of 11. 7, requiring a telescope to view. Because of its faintness, this cluster has been poorly studied. The cluster spans an angular size of 6. 0 ′.",
+    "distance": "10, 500 ± 230 ly (3. 22 ± 0. 07 kpc)",
+    "constellation": "Camelopardalis"
+  },
+  "IC405": {
+    "designation": "IC405",
+    "name": "Sh 2-229",
+    "type": "emission/reflection nebula",
+    "description": "IC 405 (also known as the Flaming Star Nebula, SH 2-229, or Caldwell 31) is an emission and reflection nebula in the constellation Auriga north of the celestial equator, surrounding the bluish, irregular variable star AE Aurigae. It shines at magnitude +6. 0. Its celestial coordinates are RA 05 h 16. 2 m dec +34° 28′. It is located near the emission nebula IC 410, the open clusters M38 and M36, and the K-class star Iota Aurigae.",
+    "distance": "1500 ly",
+    "constellation": "Auriga"
+  },
+  "IC418": {
+    "designation": "IC418",
+    "name": "IC 418",
+    "type": "planetary nebula",
+    "description": "IC 418, also known as the Spirograph Nebula, is a bright planetary nebula located in the constellation of Lepus about 3, 600 ly away from Earth. It spans 0. 3 light-years across. The central star of the planetary nebula, HD 35914, is an O-type star with a spectral type of O7fp. The nebula formed a few thousand years ago during the star's last stages of its red giant phase. Material from the star's outer layers was ejected from the star into the surrounding space. The nebula's glow is caused by the central star's ultraviolet radiation interacting with the gas.",
+    "distance": "3. 6 ± 1. 0 kly (1100 ± 300 pc) ly",
+    "constellation": "Lepus"
+  },
+  "IC434": {
+    "designation": "IC434",
+    "name": "IC 434",
+    "type": "H II region",
+    "description": "IC 434 is a bright emission nebula in the equatorial constellation of Orion. It was discovered on February 1, 1786, by German-British astronomer William Herschel. The nebula is located at a distance of approximately 1, 260 ly (385 pc) from the Sun and spans the interior of a neutral hydrogen shell with an angular size of 2° × 4°. At that distance, the dimensions correspond to a projected size of 42 ly × 85 ly (13 pc × 26 pc).",
+    "distance": "1, 260 ly (385 pc) ly",
+    "constellation": "Orion"
+  },
+  "IC438": {
+    "designation": "IC438",
+    "name": "UGCA 115",
+    "type": "spiral galaxy",
+    "description": "IC 438 is a spiral galaxy in the constellation of Lepus. Its velocity with respect to the cosmic microwave background is 3, 199 ± 6 km/s, which corresponds to a Hubble distance of 153. 9 ± 10. 8 Mly (47. 18 ± 3. 30 Mpc). However, 17 non-redshift measurements give a much closer distance of 136. 45 ± 4. 29 Mly (41. 835 ± 1. 314 Mpc). It was discovered by American astronomer Lewis Swift on 7 January 1891.",
+    "constellation": "Lepus",
+    "distance": "136. 45 ± 4. 29 Mly (41. 835 ± 1. 314 Mpc)"
+  },
+  "IC443": {
+    "designation": "IC443",
+    "name": "Gem A",
+    "type": "Supernova remnant",
+    "constellation": "Gem",
+    "catalog": "IC",
+    "ra": 94.155875,
+    "dec": 22.531666666666666,
+    "size": "50.0' × 40.0'",
+    "description": "An astronomical object in the constellation Gem."
+  },
+  "IC444": {
+    "designation": "IC444",
+    "name": "",
+    "type": "reflection nebula"
+  },
+  "IC447": {
+    "designation": "IC447",
+    "name": "",
+    "type": "reflection nebula"
+  },
+  "IC485": {
+    "designation": "IC485",
+    "name": "LEDA 22443",
+    "type": "spiral galaxy"
+  },
+  "IC487": {
+    "designation": "IC487",
+    "name": "NGC 2494",
+    "type": "lenticular galaxy"
+  },
+  "IC535": {
+    "designation": "IC535",
+    "name": "LEDA 26524",
+    "type": "elliptical galaxy"
+  },
+  "IC629": {
+    "designation": "IC629",
+    "name": "NGC 3312",
+    "type": "spiral galaxy",
+    "description": "NGC 3312 is a large and highly inclined spiral galaxy located about 194 million light-years away in the constellation Hydra. The galaxy was discovered by astronomer John Herschel on March 26, 1835. It was later rediscovered by astronomer Guillaume Bigourdan on February 26, 1887. NGC 3312 was later listed and equated with IC 629 because the two objects share essentially the same celestial coordinates. NGC 3312 is the largest spiral galaxy in the Hydra Cluster and is also classified as a LINER galaxy.",
+    "constellation": "Hydra",
+    "distance": "194 Mly (59. 4 Mpc)"
+  },
+  "IC694": {
+    "designation": "IC694",
+    "name": "Arp 299",
+    "type": "interacting galaxies",
+    "description": "Arp 299 (parts of it also known as IC 694 and NGC 3690) is a pair of colliding galaxies approximately 134 million light-years away in the constellation Ursa Major. Both of the galaxies involved in the collision are barred irregular galaxies. NGC 3690 was discovered by German-British astronomer William Herschel on 18 March 1790.",
+    "constellation": "Ursa Major",
+    "distance": "130 Mly"
+  },
+  "IC755": {
+    "designation": "IC755",
+    "name": "NGC 4019",
+    "type": "barred spiral galaxy",
+    "description": "IC 755, also known as NGC 4019, is a barred spiral galaxy. It lies about 60 million light-years away (18 Megaparsecs) in the northern constellation of Coma Berenices. It is a member of the Virgo Cluster.",
+    "constellation": "Coma Berenices",
+    "distance": "60. 3 ± 4. 9 Mly (18. 5 ± 1. 5 Mpc)"
+  },
+  "IC757": {
+    "designation": "IC757",
+    "name": "NGC 4068",
+    "type": "dwarf irregular galaxy",
+    "description": "NGC 4068 is an irregular galaxy located 4. 36 megaparsecs (14. 2 million light-years away in the Ursa Major constellation. It was discovered on 12 April 1789 by William Herschel using a 18. 7-inch f/13 speculum reflector telescope.",
+    "constellation": "Ursa Major",
+    "distance": "4. 36 Mpc (14. 2 Mly)"
+  },
+  "IC758": {
+    "designation": "IC758",
+    "name": "UGC 7056",
+    "type": "barred spiral galaxy"
+  },
+  "IC805": {
+    "designation": "IC805",
+    "name": "NGC 4611",
+    "type": "intermediate spiral galaxy",
+    "description": "NGC 4611 is an intermediate spiral galaxy in the constellation of Coma Berenices. Its velocity with respect to the cosmic microwave background is 6, 437 ± 22 km/s, which corresponds to a Hubble distance of 94. 9 ± 6. 7 Mpc (~310 million light-years). It was discovered by French astronomer Édouard Stephan on 17 May 1881. This galaxy was also observed by the American astronomer Lewis Swift on 20 April 1889, and listed in the Index Catalogue as IC 805.",
+    "constellation": "Coma Berenices",
+    "distance": "309. 7 ± 21. 7 Mly (94. 94 ± 6. 65 Mpc)"
+  },
+  "IC819": {
+    "designation": "IC819",
+    "name": "NGC 4676",
+    "type": "interacting galaxies",
+    "description": "NGC 4676, or the Mice Galaxies, are two spiral galaxies in the constellation Coma Berenices. About 105. 8 megaparsecs (345 million light-years) distant, they have begun the process of colliding and merging. Their \"mice\" name refers to the long tails produced by tidal action —the relative difference between gravitational pulls on the near and far parts of each galaxy—known here as a galactic tide. It is a possibility that both galaxies, which are members of the Coma Cluster, have experienced a collision, and will continue colliding until they coalesce.",
+    "constellation": "Coma Berenices",
+    "distance": "345. 1 ± 24. 14 Mly (105. 8 ± 7. 4 Mpc) h −1 0. 6774 (Comoving) 326 Mly (99. 95 Mpc) h −1 0. 6774 (Light-travel)"
+  },
+  "IC831": {
+    "designation": "IC831",
+    "name": "LEDA 43708",
+    "type": "elliptical galaxy",
+    "description": "IC 831 is a type E-S0 elliptical galaxy located 300 million light-years away from the Solar System in the constellation of Coma Berenices. It is estimated to be 60, 000 light-years in diameter and was first discovered on 25 February 1892 by Rudolf Spitaler, an Austrian astronomer. It is not known whether it has an active galactic nucleus.",
+    "constellation": "Coma Berenices",
+    "distance": "300 Mly (92 Mpc)"
+  },
+  "IC860": {
+    "designation": "IC860",
+    "name": "LEDA 46086",
+    "type": "barred spiral galaxy"
+  },
+  "IC883": {
+    "designation": "IC883",
+    "name": "Arp 193",
+    "type": "irregular galaxy"
+  },
+  "IC923": {
+    "designation": "IC923",
+    "name": "LEDA 3483133",
+    "type": "lenticular galaxy"
+  },
+  "IC924": {
+    "designation": "IC924",
+    "name": "LEDA 170293",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC961": {
+    "designation": "IC961",
+    "name": "Mrk 664",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC1011": {
+    "designation": "IC1011",
+    "name": "LEDA 51662",
+    "type": "barred spiral galaxy",
+    "description": "IC 1011 is a barred spiral galaxy with apparent magnitude of 14. 7, and with a redshift of z=0. 02564 (SIMBAD) or 0. 025703 (NASA), yielding a distance of 100 to 120 megaparsecs. Its light takes 349. 5 million years to reach Earth. IC 1011's calculated age is approximately 12. 95 billion years. The IC designation comes from the Index Catalogue.",
+    "constellation": "Virgo"
+  },
+  "IC1015": {
+    "designation": "IC1015",
+    "name": "LEDA 51686",
+    "type": "interacting galaxies",
+    "description": "Interacting galaxies, also known as colliding galaxies, are two or more galaxies whose gravitational fields result in a disturbance of one another. There are several types of galactic interactions, including major interactions, minor interactions, and galaxy harassment. Major interactions occur between galaxies with similar amounts of mass, whereas minor interactions involve galaxies with masses that vary significantly. An example of a minor interaction is a satellite galaxy disturbing the primary galaxy's spiral arms. An example of a major interaction is a galactic collision, such as the one that astronomers estimate will happen in the future between the Milky Way and Andromeda. Collisions may lead to galaxy mergers and may also lead to other phenomena such as star formation and black hole activity."
+  },
+  "IC1047": {
+    "designation": "IC1047",
+    "name": "LEDA 52522",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC1050": {
+    "designation": "IC1050",
+    "name": "LEDA 52630",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC1061": {
+    "designation": "IC1061",
+    "name": "LEDA 95545",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC1065": {
+    "designation": "IC1065",
+    "name": "3C 305",
+    "type": "lenticular galaxy",
+    "description": "3C 305, also known as IC 1065, is a lenticular galaxy located in the constellation Draco. The galaxy is located 577 million light-years away from Earth. It has an active galactic nucleus and is classified as a Seyfert 2 galaxy. This galaxy was discovered by American astronomer Lewis Swift on April 7, 1888.",
+    "constellation": "Draco",
+    "distance": "577 Mly (176. 9 Mpc)"
+  },
+  "IC1067": {
+    "designation": "IC1067",
+    "name": "UGC 9574",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC1101": {
+    "designation": "IC1101",
+    "name": "UGC 9752",
+    "type": "lenticular galaxy",
+    "description": "IC 1101 is a class S0 supergiant (cD) lenticular galaxy at the center of the Abell 2029 galaxy cluster. It has an isophotal diameter at about 123. 65 to 169. 61 kiloparsecs (400, 000 to 550, 000 light-years). It possesses a diffuse core which is the largest core of any galaxy known to date, and contains a supermassive black hole, one of the largest discovered.",
+    "constellation": "Virgo",
+    "distance": "354. 0 ± 24. 8 Mpc (1, 154. 6 ± 80. 9 million ly) h −1 0. 67"
+  },
+  "IC1103": {
+    "designation": "IC1103",
+    "name": "LEDA 1584180",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC1108": {
+    "designation": "IC1108",
+    "name": "NGC 5882",
+    "type": "planetary nebula",
+    "description": "NGC 5882 is a small planetary nebula in the southern constellation of Lupus, positioned about 1. 5° to the southwest of the star Epsilon Lupi. It was discovered by English astronomer John Herschel on July 2, 1834 from the Cape of Good Hope observatory. John L. E. Dreyer described it as \"very small, round, quite sharp\". It is located at a distance of approximately 7. 7 kilolight-years from the Sun.",
+    "distance": "7. 7 kly (2. 4 kpc) ly",
+    "constellation": "Lupus"
+  },
+  "IC1111": {
+    "designation": "IC1111",
+    "name": "NGC 5876",
+    "type": "barred spiral galaxy",
+    "description": "NGC 5876 is a barred spiral galaxy in the constellation of Boötes. Its velocity with respect to the cosmic microwave background is 3325 ± 5 km/s, which corresponds to a Hubble distance of 49. 05 ± 3. 43 Mpc (~160 million light-years). However, three non redshift measurements give a much greater distance of 65. 6 ± 0. 346 Mpc (~214 million light-years). The galaxy was discovered by American astronomer Lewis Swift on 11 June 1885. Swift observed the galaxy again on August 27, 1888, and not realizing that he had already observed it, entered the galaxy into the Index Catalogue as IC 1111.",
+    "constellation": "Boötes",
+    "distance": "160. 0 ± 11. 2 Mly (49. 05 ± 3. 43 Mpc)"
+  },
+  "IC1127": {
+    "designation": "IC1127",
+    "name": "Arp 220",
+    "type": "interacting galaxies",
+    "description": "Arp 220 is the result of a collision between two galaxies which are now in the process of merging. It is the 220th object in Halton Arp 's Atlas of Peculiar Galaxies.",
+    "constellation": "Serpens"
+  },
+  "IC1166": {
+    "designation": "IC1166",
+    "name": "Mrk 867",
+    "type": "pair ofgalaxies",
+    "description": "IC 1166 are a pair of galaxies in the Corona Borealis constellation comprising IC 1166 NED01 and IC 1166 NED02. They are located 977 million light-years from the Solar System and were discovered on July 28, 1892, by Stephane Javelle.",
+    "constellation": "Corona Borealis",
+    "distance": "977 Mly (299. 54 Mpc)"
+  },
+  "IC1172": {
+    "designation": "IC1172",
+    "name": "NGC 6044",
+    "type": "lenticular galaxy",
+    "description": "NGC 6044 is a lenticular galaxy located about 465 million light-years away in the constellation Hercules. NGC 6044 was discovered by astronomer Lewis Swift on June 27, 1886. It was then rediscovered by astronomer Guillaume Bigourdan on June 8, 1888. NGC 6044 is a member of the Hercules Cluster.",
+    "constellation": "Hercules",
+    "distance": "143 Mpc (466 Mly)"
+  },
+  "IC1176": {
+    "designation": "IC1176",
+    "name": "NGC 6056",
+    "type": "barred lenticular galaxy",
+    "description": "NGC 6056 is a barred lenticular galaxy located about 525 million light-years away in the constellation Hercules. It was discovered by astronomer Lewis Swift on June 8, 1886. It was then rediscovered by Swift on June 8, 1888 and was later listed as IC 1176. NGC 6056 is a member of the Hercules Cluster.",
+    "constellation": "Hercules",
+    "distance": "161 Mpc (525 Mly)"
+  },
+  "IC1179": {
+    "designation": "IC1179",
+    "name": "Arp 272",
+    "type": "barred spiral galaxy",
+    "description": "Arp 272 is a pair of interacting galaxies consisting of the two spiral galaxies NGC 6050 (left) and IC 1179 (right). Arp 272 lies around 450 million light years from Earth in the constellation of Hercules. The galaxies are part of the Hercules Cluster, which is itself part of the CfA2 Great Wall.",
+    "constellation": "Hercules",
+    "distance": "494. 13 ± 55. 89 Mly (151. 5 ± 17. 137 Mpc)"
+  },
+  "IC1182": {
+    "designation": "IC1182",
+    "name": "UGC 10192",
+    "type": "lenticular galaxy"
+  },
+  "IC1183": {
+    "designation": "IC1183",
+    "name": "NGC 6054",
+    "type": "barred lenticular galaxy",
+    "description": "NGC 6054 is a barred lenticular galaxy located about 460 million light-years away in the constellation Hercules. It was discovered by astronomer Lewis Swift on June 27, 1886. It was then rediscovered by astronomer Guillaume Bigourdan on June 1, 1888. PGC 57073 is often misidentified as NGC 6054. NGC 6054 is a member of the Hercules Cluster.",
+    "constellation": "Hercules",
+    "distance": "140 Mpc (457 Mly)"
+  },
+  "IC1185": {
+    "designation": "IC1185",
+    "name": "LEDA 57096",
+    "type": "spiral galaxy"
+  },
+  "IC1189": {
+    "designation": "IC1189",
+    "name": "LEDA 57135",
+    "type": "lenticular galaxy",
+    "description": "IC 1189 is a S0-a lenticular galaxy with a ring structure located in Hercules. It is located 557 million light-years away from the Solar System and has an approximate diameter of 145, 000 light-years. IC 1189 was discovered on June 7, 1888, by Lewis Swift. It is a member of the Hercules Cluster.",
+    "constellation": "Hercules",
+    "distance": "557 Mly (171 Mpc)"
+  },
+  "IC1192": {
+    "designation": "IC1192",
+    "name": "LEDA 57157",
+    "type": "barred spiral galaxy",
+    "description": "IC 1192 is an edge-on barred spiral galaxy located in Hercules. It is located 543 million light-years from the Solar System and has a diameter of approximately 90, 000 light-years. IC 1192 was discovered by Stephane Javelle on August 13, 1892. It is a member of the Hercules Cluster.",
+    "constellation": "Hercules",
+    "distance": "543 Mly (166. 4 Mpc)"
+  },
+  "IC1295": {
+    "designation": "IC1295",
+    "name": "IC 1295",
+    "type": "planetary nebula",
+    "description": "IC 1295 is a planetary nebula in the constellation Scutum. It was discovered in 1867 by Truman Safford. It lies roughly 4, 700 light-years (1, 500 parsecs) away.",
+    "distance": "4700 ly (1500 pc)",
+    "constellation": "Scutum"
+  },
+  "IC1318": {
+    "designation": "IC1318",
+    "name": "Sadr Region",
+    "type": "emission nebula",
+    "description": "The Sadr Region (also known as IC 1318 or the Gamma Cygni Nebula) is the diffuse emission nebula surrounding Sadr (γ Cygni) at the center of Cygnus's cross. The Sadr Region is one of the surrounding nebulous regions; others include the Butterfly Nebula and the Crescent Nebula. It contains many dark nebulae in addition to the emission diffuse nebulae.",
+    "constellation": "Cygnus"
+  },
+  "IC1327": {
+    "designation": "IC1327",
+    "name": "LEDA 65027",
+    "type": "lenticular galaxy"
+  },
+  "IC1337": {
+    "designation": "IC1337",
+    "name": "LEDA 65760",
+    "type": "intermediate spiral galaxy",
+    "description": "IC 1337 is an intermediate spiral galaxy in the constellation Capricornus. The galaxy is located close to the celestial equator. It was discovered by Stéphane Javelle on July 22, 1892.",
+    "constellation": "Capricornus",
+    "distance": "~420 Mly (129 Mpc)"
+  },
+  "IC1340": {
+    "designation": "IC1340",
+    "name": "Veil Nebula",
+    "type": "supernova remnant",
+    "description": "The Veil Nebula is a cloud of heated and ionized gas and dust in the constellation Cygnus.",
+    "distance": "2, 400 ly",
+    "constellation": "Cygnus"
+  },
+  "IC1382": {
+    "designation": "IC1382",
+    "name": "NGC 7056",
+    "type": "barred spiral galaxy",
+    "description": "NGC 7056 is a barred spiral galaxy located about 225 million light-years away in the constellation of Pegasus. NGC 7056 was discovered by astronomer Albert Marth on September 17, 1863. It was then rediscovered by astronomer Truman Henry Safford on September 29, 1866.",
+    "constellation": "Pegasus",
+    "distance": "225 Mly"
+  },
+  "IC1396": {
+    "designation": "IC1396",
+    "name": "Trumpler 37",
+    "type": "emission nebula",
+    "description": "The Elephant's Trunk Nebula (IC 1396A) is a concentration of interstellar gas and dust within the much larger ionized gas region IC 1396 located in the constellation Cepheus about 2, 400 light years away from Earth. The nebula is a dark, dense globule that gets its name from its appearance at visible light wavelengths, where there is a dark patch with a bright, sinuous rim. The bright rim is the surface of the dense cloud that is being illuminated and ionized by a very bright, massive multiple star (HD 206267) that is just to the east of the Elephant's Trunk Nebula. The entire IC 1396 region is ionized by the massive star, except for dense globules that can protect themselves from the star's harsh ultraviolet rays. [ citation needed ]",
+    "distance": "2, 400 ly",
+    "constellation": "Cepheus"
+  },
+  "IC1459": {
+    "designation": "IC1459",
+    "name": "LEDA 70090",
+    "type": "elliptical galaxy"
+  },
+  "IC1511": {
+    "designation": "IC1511",
+    "name": "NGC 7767",
+    "type": "lenticular galaxy"
+  },
+  "IC1539": {
+    "designation": "IC1539",
+    "name": "NGC 70",
+    "type": "spiral galaxy",
+    "description": "NGC 70 is a spiral galaxy located in the constellation Andromeda. It was discovered on October 7, 1855, by R. J. Mitchell and was observed on December 19, 1897, by Guillaume Bigourdan from France who described it as \"extremely faint, very small, round, between 2 faint stars\".",
+    "constellation": "Andromeda",
+    "distance": "320-325 Mly"
+  },
+  "IC1563": {
+    "designation": "IC1563",
+    "name": "NGC 191A",
+    "type": "lenticular galaxy"
+  },
+  "IC1565": {
+    "designation": "IC1565",
+    "name": "UGC 410",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC1567": {
+    "designation": "IC1567",
+    "name": "Same as IC 1565"
+  },
+  "IC1574": {
+    "designation": "IC1574",
+    "name": "LEDA 2578",
+    "type": "irregular galaxy",
+    "description": "IC 1574 is an irregular galaxy 17 million light-years from Earth. It is a member of the Sculptor Group, a group of galaxies near the Local Group. It was discovered by DeLisle Stewart on 3 November 1898.",
+    "constellation": "Cetus",
+    "distance": "17 Mly"
+  },
+  "IC1590": {
+    "designation": "IC1590",
+    "name": "Collinder 8",
+    "type": "open cluster",
+    "description": "IC 1590 is an open cluster located in the nebulosity of NGC 281. 279 stars with magnitudes less than or equal to 17 are visible within or near the cluster. The cluster is estimated to be 3. 5 million years old, making it relatively young compared to other star systems. Inside the cluster is a multiple-star system that emits light which helps give the dust in NGC 281 its glow.",
+    "distance": "9600 ly (2900 pc)",
+    "constellation": "Cassiopeia"
+  },
+  "IC1591": {
+    "designation": "IC1591",
+    "name": "NGC 276",
+    "type": "barred spiral galaxy"
+  },
+  "IC1613": {
+    "designation": "IC1613",
+    "name": "UGC 668",
+    "type": "irregulardwarf galaxy"
+  },
+  "IC1623": {
+    "designation": "IC1623",
+    "name": "",
+    "type": "galaxy merger"
+  },
+  "IC1634": {
+    "designation": "IC1634",
+    "name": "UGC 740",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC1635": {
+    "designation": "IC1635",
+    "name": "UGC 739",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC1653": {
+    "designation": "IC1653",
+    "name": "NGC 443",
+    "type": "lenticular galaxy"
+  },
+  "IC1656": {
+    "designation": "IC1656",
+    "name": "NGC 447",
+    "type": "spiral galaxy"
+  },
+  "IC1658": {
+    "designation": "IC1658",
+    "name": "NGC 444",
+    "type": "spiral galaxy",
+    "description": "NGC 444 is a spiral galaxy of type Sd located in the constellation Pisces. It was first discovered on October 26, 1854 by R. J. Mitchell (and later listed as NGC 444), and was also spotted on October 17, 1903 by Stéphane Javelle (and later listed as IC 1658). It was described by Dreyer as \"very faint, much extended 135°, a little brighter middle.\"",
+    "constellation": "Pisces",
+    "distance": "172. 16 ± 23. 24 Mly (52. 785 ± 7. 126 Mpc)"
+  },
+  "IC1661": {
+    "designation": "IC1661",
+    "name": "NGC 451",
+    "type": "spiral galaxy"
+  },
+  "IC1686": {
+    "designation": "IC1686",
+    "name": "NGC 499",
+    "type": "lenticular galaxy",
+    "description": "NGC 499, also occasionally referred to as PGC 5060, IC 1686 or GC 289, is a lenticular galaxy in the constellation Pisces. It is located approximately 197 million light-years from the Solar System and was discovered on 12 September, 1784 by astronomer William Herschel.",
+    "constellation": "Pisces",
+    "distance": "197 Mly"
+  },
+  "IC1710": {
+    "designation": "IC1710",
+    "name": "NGC 575",
+    "type": "barred spiral galaxy"
+  },
+  "IC1712": {
+    "designation": "IC1712",
+    "name": "NGC 584",
+    "type": "elliptical galaxy"
+  },
+  "IC1743": {
+    "designation": "IC1743",
+    "name": "NGC 716",
+    "type": "barred spiral galaxy"
+  },
+  "IC1744": {
+    "designation": "IC1744",
+    "name": "NGC 719",
+    "type": "lenticular galaxy",
+    "description": "NGC 719 is a lenticular galaxy in the constellation Aries. It was first discovered, on 24 November 1861, by Heinrich d'Arrest.",
+    "constellation": "Aries",
+    "distance": "400. 4 Mly (122. 75 Mpc)"
+  },
+  "IC1757": {
+    "designation": "IC1757",
+    "name": "LEDA 174458",
+    "type": "elliptical galaxy?",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC1766": {
+    "designation": "IC1766",
+    "name": "NGC 785",
+    "type": "elliptical galaxy",
+    "description": "NGC 785 is an elliptical galaxy located around 217 million light-years away in the constellation Triangulum. NGC 785 was discovered in 1876 by Édouard Stephan, and it is around 102, 000 light-years across in diameter. NGC 785 is not known to have an Active galactic nucleus, and is not known to have lots of star formation.",
+    "constellation": "Triangulum",
+    "distance": "217 Mly (66. 58 M pc)"
+  },
+  "IC1773": {
+    "designation": "IC1773",
+    "name": "NGC 804",
+    "type": "lenticular galaxy",
+    "description": "NGC 804 is a lenticular galaxy located in the Triangulum constellation about 231 million light-years from the Milky Way. It was discovered by the American astronomer Lewis Swift in 1885. This galaxy was also observed by the French astronomer Guillaume Bigourdan on December 24, 1897, and it has been added to the Index Catalogue under the symbol IC 1773.",
+    "constellation": "Triangulum",
+    "distance": "231. 3 Mly (70. 92 Mpc)"
+  },
+  "IC1782": {
+    "designation": "IC1782",
+    "name": "NGC 823",
+    "type": "lenticular galaxy"
+  },
+  "IC1801": {
+    "designation": "IC1801",
+    "name": "UGC 1936",
+    "type": "barred spiral"
+  },
+  "IC1805": {
+    "designation": "IC1805",
+    "name": "IC1805",
+    "type": "Star cluster + Nebula",
+    "constellation": "Cas",
+    "catalog": "IC",
+    "ra": 38.172958333333334,
+    "dec": 61.4568888888889,
+    "magnitude": "6.5",
+    "size": "60.0' × 60.0'",
+    "description": "A star cluster + nebula in the constellation Cas."
+  },
+  "IC1816": {
+    "designation": "IC1816",
+    "name": "PGC 9634",
+    "type": "barred spiral galaxy"
+  },
+  "IC1848": {
+    "designation": "IC1848",
+    "name": "Collinder 32",
+    "type": "open cluster",
+    "description": "Westerhout 5 (also known as W5, Sharpless 2-199, LBN 667, or Soul Nebula) is an emission nebula located in Cassiopeia. Several small open clusters are embedded in the nebula: Collinder 33 and 34 in the head and IC 1848 (Collinder 32) in the body. The small emission nebula IC 1871 is present just left of the top of the head, and Sh2 199 is just below the lower back area.",
+    "distance": "7, 500 ly",
+    "constellation": "Cassiopeia"
+  },
+  "IC1907": {
+    "designation": "IC1907",
+    "name": "NGC 1278",
+    "type": "elliptical galaxy"
+  },
+  "IC1919": {
+    "designation": "IC1919",
+    "name": "LEDA 12825",
+    "type": "elliptical galaxy"
+  },
+  "IC1953": {
+    "designation": "IC1953",
+    "name": "LEDA 13184",
+    "type": "barred spiral galaxy"
+  },
+  "IC1963": {
+    "designation": "IC1963",
+    "name": "Same asIC 335",
+    "description": "IC 335 is an edge-on lenticular galaxy about 60 million light years (18 million parsecs) away, in the constellation Fornax. It is part of the Fornax Cluster.",
+    "constellation": "Fornax",
+    "distance": "59. 06 ± 12. 77 Mly (18. 107 ± 3. 914 Mpc)",
+    "type": "S0"
+  },
+  "IC1993": {
+    "designation": "IC1993",
+    "name": "LEDA 13840",
+    "type": "intermediate spiral galaxy",
+    "description": "IC 1993 is an unbarred spiral galaxy in the constellation Fornax. It was discovered by Lewis Swift on November 19, 1897. At a distance of about 50 million light-years, and redshift of 1057 km/s, it is one of the closest to us of the 200 galaxies in the Fornax Cluster.",
+    "constellation": "Fornax",
+    "distance": "50 Mly (15 Mpc)"
+  },
+  "IC1988": {
+    "designation": "IC1988",
+    "name": "LEDA 13602",
+    "type": "spiral galaxy"
+  },
+  "IC2006": {
+    "designation": "IC2006",
+    "name": "LEDA 14077",
+    "type": "elliptical galaxy"
+  },
+  "IC2062": {
+    "designation": "IC2062",
+    "name": "NGC 1560",
+    "type": "spiral galaxy"
+  },
+  "IC2118": {
+    "designation": "IC2118",
+    "name": "NGC 1909",
+    "type": "reflection nebula",
+    "description": "IC 2118 (also known as Witch Head Nebula due to its shape) is an extremely faint reflection nebula believed to be an ancient supernova remnant or gas cloud illuminated by nearby supergiant star Rigel in the constellation of Orion. The nebula lies in the Eridanus Constellation, about 900 light-years from Earth. The nature of the dust particles, reflecting blue light better than red, is a factor in giving the Witch Head its blue color. Radio observations show substantial carbon monoxide emission throughout parts of IC 2118, an indicator of the presence of molecular clouds and star formation in the nebula. In fact candidates for pre-main sequence stars and some classic T Tauri stars have been found deep within the nebula.",
+    "distance": "1, 000 [ citation needed ] ly",
+    "constellation": "Eridanus"
+  },
+  "IC2126": {
+    "designation": "IC2126",
+    "name": "NGC 1935",
+    "type": "emission nebula",
+    "description": "NGC 1935 (also known as ESO 56-EN110 and IC 2126) is an emission nebula which is part of the larger LMC-N44 nebula in the Dorado constellation. NGC 1935 is also located in the Large Magellanic Cloud. It was discovered by John Herschel in 1834 and added to the Catalogue of Nebulae and Clusters of Stars as NGC 1935, then was observed by Williamina Fleming in 1901 and later added to the Index Catalogue as IC 2126.",
+    "constellation": "Dorado"
+  },
+  "IC2127": {
+    "designation": "IC2127",
+    "name": "NGC 1936",
+    "type": "emission nebula",
+    "description": "NGC 1936 (also known as IC 2127 and ESO 056-EN111) is an emission nebula which is part of the larger LMC-N44 nebula located in the Dorado constellation in the Large Magellanic Cloud. It was discovered by John Herschel in 1834 and added to the Catalogue of Nebulae and Clusters of Stars as NGC 1936. It was later observed by John Dunlop on September 27, 1936, and Williamina Fleming in 1901 and added to the Index Catalogue as IC 2127. Its apparent magnitude is 11. 60.",
+    "constellation": "Dorado"
+  },
+  "IC2133": {
+    "designation": "IC2133",
+    "name": "NGC 1961",
+    "type": "spiral galaxy"
+  },
+  "IC2149": {
+    "designation": "IC2149",
+    "name": "",
+    "type": "planetary nebula"
+  },
+  "IC2154": {
+    "designation": "IC2154",
+    "name": "NGC 2139",
+    "type": "barred spiral galaxy"
+  },
+  "IC2163": {
+    "designation": "IC2163",
+    "name": "LEDA 18751",
+    "type": "barred spiral galaxy"
+  },
+  "IC2169": {
+    "designation": "IC2169",
+    "name": "Same asIC 447"
+  },
+  "IC2177": {
+    "designation": "IC2177",
+    "name": "",
+    "type": "reflection nebula"
+  },
+  "IC2220": {
+    "designation": "IC2220",
+    "name": "",
+    "type": "reflection nebula"
+  },
+  "IC2233": {
+    "designation": "IC2233",
+    "name": "UGC 4278",
+    "type": "spiral galaxy"
+  },
+  "IC2391": {
+    "designation": "IC2391",
+    "name": "Collinder 191",
+    "type": "open cluster"
+  },
+  "IC2395": {
+    "designation": "IC2395",
+    "name": "Collinder 192",
+    "type": "open cluster"
+  },
+  "IC2431": {
+    "designation": "IC2431",
+    "name": "LEDA 25476",
+    "type": "interacting galaxies",
+    "description": "IC 2431 are a group of interacting galaxies in the constellation of Cancer. They are located 684 million light-years away from the Solar System and were discovered on February 24, 1896, by Stephane Javelle.",
+    "constellation": "Cancer",
+    "distance": "684 Mly (209. 71 Mpc)"
+  },
+  "IC2448": {
+    "designation": "IC2448",
+    "name": "IC 2448",
+    "type": "planetary nebula",
+    "description": "IC 2448 is an elliptical planetary nebula in the constellation of Carina. It was discovered in 1898 by Williamina Fleming. It lies near the bright star Beta Carinae. The central star of the planetary nebula is an O-type star with a spectral type of O(H) 3 III-V. An analysis of Gaia data suggests that it is a binary system.",
+    "distance": "11000 ly (3500 [ note 1 ] pc)",
+    "constellation": "Carina"
+  },
+  "IC2455": {
+    "designation": "IC2455",
+    "name": "NGC 2804",
+    "type": "lenticular galaxy"
+  },
+  "IC2486": {
+    "designation": "IC2486",
+    "name": "UGC 5062",
+    "type": "spiral galaxy"
+  },
+  "IC2488": {
+    "designation": "IC2488",
+    "name": "Collinder 208",
+    "type": "open cluster"
+  },
+  "IC2497": {
+    "designation": "IC2497",
+    "name": "LEDA 165538",
+    "type": "spiral galaxy"
+  },
+  "IC2498": {
+    "designation": "IC2498",
+    "name": "LEDA 27668",
+    "type": "barred spiral galaxy"
+  },
+  "IC2529": {
+    "designation": "IC2529",
+    "name": "NGC 3081",
+    "type": "ring galaxy",
+    "description": "NGC 3081 is a barred lenticular ring galaxy in the constellation of Hydra. NGC 3081 is located about 85 million light-years away from Earth, which means, given its apparent dimensions, that NGC 3081 is approximately 60, 000 light-years across. It is a type II Seyfert galaxy, characterised by its bright nucleus. It was discovered by William Herschel on 21 December 1786.",
+    "constellation": "Hydra",
+    "distance": "83 Mly (25. 3 Mpc)"
+  },
+  "IC2531": {
+    "designation": "IC2531",
+    "name": "PGC 28909",
+    "type": "spiral galaxy",
+    "description": "IC 2531 is an edge-on spiral galaxy located in the constellation of Antlia. It is located 130 million light years from Earth. It was discovered by American astronomer Lewis Swift on 15 February 1898. The galaxy has been called by its nickname \"little N 891\" because of its resemblance to another edge-on spiral, NGC 891. However IC 2531 is twice as large.",
+    "constellation": "Antlia",
+    "distance": "134. 5 Mly (41. 28 Mpc)"
+  },
+  "IC2560": {
+    "designation": "IC2560",
+    "name": "LEDA 29993",
+    "type": "spiral galaxy"
+  },
+  "IC2571": {
+    "designation": "IC2571",
+    "name": "NGC 3223",
+    "type": "spiral galaxy"
+  },
+  "IC2574": {
+    "designation": "IC2574",
+    "name": "UGC 5666",
+    "type": "dwarf spiral galaxy"
+  },
+  "IC2585": {
+    "designation": "IC2585",
+    "name": "NGC 3271",
+    "type": "barred lenticular galaxy"
+  },
+  "IC2599": {
+    "designation": "IC2599",
+    "name": "NGC 3324",
+    "type": "emission nebula",
+    "description": "NGC 3324 is an open cluster in the southern constellation of Carina, located northwest of the Carina Nebula (NGC 3372) at a distance of 9, 100 ly (2, 800 pc) from Earth. It is closely associated with the emission nebula IC 2599, also known as Gum 31. The two are often confused as a single object, and together have been nicknamed the \"Gabriela Mistral Nebula\" due to its resemblance to the Chilean poet. NGC 3324 was first catalogued by James Dunlop in 1826.",
+    "distance": "9, 100 ly (2, 800 pc)",
+    "constellation": "Carina"
+  },
+  "IC2602": {
+    "designation": "IC2602",
+    "name": "Collinder 229",
+    "type": "open cluster",
+    "description": "IC 2602 (also known as the Southern Pleiades, Theta Carinae Cluster, or Caldwell 102) is an open cluster in the constellation Carina. Discovered by Abbe Lacaille in 1751 from South Africa, the cluster is easily visible to the unaided eye, and is one of the nearest star clusters, centred about 149 parsecs (486 light-years) away from Earth.",
+    "distance": "486 ly (149 pc)",
+    "constellation": "Carina"
+  },
+  "IC2628": {
+    "designation": "IC2628",
+    "name": "LEDA 34038",
+    "type": "barred spiral galaxy"
+  },
+  "IC2613": {
+    "designation": "IC2613",
+    "name": "UGC 5931",
+    "type": "peculiarspiral galaxy"
+  },
+  "IC2631": {
+    "designation": "IC2631",
+    "name": "Ced 112",
+    "type": "reflection nebula"
+  },
+  "IC2700": {
+    "designation": "IC2700",
+    "name": "LEDA 1402998",
+    "type": "galaxy",
+    "description": "Leo / ˈ l iː oʊ / is one of the constellations of the zodiac, between Cancer, the Crab, to the west and Virgo, the Maiden, to the east. It is located in the Northern celestial hemisphere. Its name is Latin for lion, and to the ancient Greeks represented the Nemean Lion killed by the mythical Greek hero Heracles as one of his twelve labors. Its old astronomical symbol is (♌︎). One of the 48 constellations described by the 2nd-century astronomer Ptolemy, Leo remains one of the 88 modern constellations today, and one of the most easily recognizable due to its many bright stars and a distinctive shape that is reminiscent of the crouching lion it depicts.",
+    "constellation": "Ursa Major Leo Minor Lynx (corner) Cancer Hydra Sextans Crater Virgo Coma Berenices"
+  },
+  "IC2702": {
+    "designation": "IC2702",
+    "name": "LEDA 1364735",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC2722": {
+    "designation": "IC2722",
+    "name": "LEDA 3769216",
+    "type": "trio of galaxies",
+    "description": "Leo / ˈ l iː oʊ / is one of the constellations of the zodiac, between Cancer, the Crab, to the west and Virgo, the Maiden, to the east. It is located in the Northern celestial hemisphere. Its name is Latin for lion, and to the ancient Greeks represented the Nemean Lion killed by the mythical Greek hero Heracles as one of his twelve labors. Its old astronomical symbol is (♌︎). One of the 48 constellations described by the 2nd-century astronomer Ptolemy, Leo remains one of the 88 modern constellations today, and one of the most easily recognizable due to its many bright stars and a distinctive shape that is reminiscent of the crouching lion it depicts.",
+    "constellation": "Ursa Major Leo Minor Lynx (corner) Cancer Hydra Sextans Crater Virgo Coma Berenices"
+  },
+  "IC2729": {
+    "designation": "IC2729",
+    "name": "LEDA 1430330",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2714": {
+    "designation": "IC2714",
+    "name": "Collinder 245",
+    "type": "open cluster",
+    "description": "IC 2714 is an open cluster in the constellation Carina. It was discovered by James Dunlop in 1826. It is located approximately 4, 000 light years away from Earth, in the Carina–Sagittarius Arm.",
+    "distance": "4, 030 ly (1, 238 pc)",
+    "constellation": "Carina"
+  },
+  "IC2734": {
+    "designation": "IC2734",
+    "name": "LEDA 1409656",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2744": {
+    "designation": "IC2744",
+    "name": "LEDA 34833",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC2754": {
+    "designation": "IC2754",
+    "name": "LEDA 1450402",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2759": {
+    "designation": "IC2759",
+    "name": "LEDA 34882",
+    "type": "elliptical galaxy",
+    "description": "IC 2759 is a small type E elliptical galaxy located in the constellation of Leo. It is located 350 million light-years away from the Solar System and was discovered on April 24, 1897, by Guillaume Bigourdan. Sometimes IC 2759 is confused with the spiral galaxy, PGC 34882 which is located south of the galaxy. Both galaxies are members of Hickson 51.",
+    "constellation": "Leo",
+    "distance": "350 Mly (107 Mpc)"
+  },
+  "IC2760": {
+    "designation": "IC2760",
+    "name": "LEDA 1413842",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC2768": {
+    "designation": "IC2768",
+    "name": "LEDA 1411172",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2800": {
+    "designation": "IC2800",
+    "name": "LEDA 3543021",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2801": {
+    "designation": "IC2801",
+    "name": "LEDA 1375823",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2816": {
+    "designation": "IC2816",
+    "name": "LEDA 3472124",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2835": {
+    "designation": "IC2835",
+    "name": "LEDA 3090991",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC2839": {
+    "designation": "IC2839",
+    "name": "LEDA 3472295",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC2938": {
+    "designation": "IC2938",
+    "name": "LEDA 35837",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC2944": {
+    "designation": "IC2944",
+    "name": "IC 2944",
+    "type": "open cluster",
+    "description": "IC 2944, also known as the Running Chicken Nebula, the Lambda Centauri Nebula or the λ Centauri Nebula, is an open cluster with an associated emission nebula found in the constellation Centaurus, near the star λ Centauri. It features Bok globules, which are frequently a site of active star formation. However, no evidence for star formation has been found in any of the globules in IC 2944. Other designations for IC 2944 include RCW 62, G40 and G42.",
+    "distance": "6500 ly",
+    "constellation": "Centaurus"
+  },
+  "IC2955": {
+    "designation": "IC2955",
+    "name": "LEDA 36603",
+    "type": "lenticular galaxy",
+    "description": "NGC 3862 is an elliptical galaxy located 300 million light-years away in the constellation Leo. Discovered by astronomer William Herschel on April 27, 1785, NGC 3862 is an outlying member of the Leo Cluster.",
+    "constellation": "Leo",
+    "distance": "304 Mly (93. 3 Mpc)"
+  },
+  "IC3031": {
+    "designation": "IC3031",
+    "name": "LEDA 92941",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3038": {
+    "designation": "IC3038",
+    "name": "LEDA 38920",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3053": {
+    "designation": "IC3053",
+    "name": "LEDA 39038",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3064": {
+    "designation": "IC3064",
+    "name": "NGC 4206",
+    "type": "spiral galaxy",
+    "description": "NGC 4206 is a spiral galaxy located about 70 million light-years away from Earth in the constellation of Virgo. The galaxy is visible with most moderate amateur telescopes at 13th magnitude. It was discovered by British astronomer William Herschel on 17 April 1784 and is a member of the Virgo Cluster.",
+    "constellation": "Virgo",
+    "distance": "67 Mly (20. 4 Mpc)"
+  },
+  "IC3078": {
+    "designation": "IC3078",
+    "name": "LEDA 39263",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3108": {
+    "designation": "IC3108",
+    "name": "LEDA 39449",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3135": {
+    "designation": "IC3135",
+    "name": "LEDA 89577",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3189": {
+    "designation": "IC3189",
+    "name": "LEDA 3098279",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3207": {
+    "designation": "IC3207",
+    "name": "LEDA 3787380",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3222": {
+    "designation": "IC3222",
+    "name": "UGC 7437",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC3246": {
+    "designation": "IC3246",
+    "name": "LEDA 40202",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3261": {
+    "designation": "IC3261",
+    "name": "LEDA 40289",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC3269": {
+    "designation": "IC3269",
+    "name": "Spiral galaxy",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3270": {
+    "designation": "IC3270",
+    "name": "Barred spiral galaxy",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC3272": {
+    "designation": "IC3272",
+    "name": "LEDA 1684676",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3278": {
+    "designation": "IC3278",
+    "name": "LEDA 40345",
+    "type": "trio of galaxies",
+    "description": "Coma Berenices is an ancient asterism in the northern sky, which has been defined as one of the 88 modern constellations. It is in the direction of the fourth galactic quadrant, between Leo and Boötes, and it is visible in both hemispheres. Its name means \"Berenice's Hair\" in Latin and refers to Queen Berenice II of Egypt, who sacrificed her long hair as a votive offering. It was introduced to Western astronomy during the third century BC by Conon of Samos and was further corroborated as a constellation by Gerardus Mercator and Tycho Brahe. It is the only modern constellation named after a historic person. [ a ]",
+    "constellation": "Canes Venatici Ursa Major Leo Virgo Boötes"
+  },
+  "IC3283": {
+    "designation": "IC3283",
+    "name": "LEDA 3788286",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3286": {
+    "designation": "IC3286",
+    "name": "LEDA 1692968",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC3299": {
+    "designation": "IC3299",
+    "name": "LEDA 3089319",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3325": {
+    "designation": "IC3325",
+    "name": "LEDA 3788769",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC3329": {
+    "designation": "IC3329",
+    "name": "NGC 4393",
+    "type": "spiral galaxy",
+    "description": "NGC 4393 is a spiral galaxy about 46 million light-years away in the constellation Coma Berenices. It was discovered by astronomer William Herschel on April 11, 1785. It is a member of the NGC 4274 Group, which is part of the Coma I Group or Cloud.",
+    "constellation": "Coma Berenices",
+    "distance": "46 Mly (14. 2 Mpc)"
+  },
+  "IC3339": {
+    "designation": "IC3339",
+    "name": "NGC 4411",
+    "type": "Barred spiral galaxy",
+    "description": "NGC 4411 (also known as NGC 4411A) is a barred spiral galaxy in the constellation of Virgo. Its velocity with respect to the cosmic microwave background is 1, 616 ± 24 km/s, which corresponds to a Hubble distance of 77. 7 ± 5. 5 Mly (23. 83 ± 1. 70 Mpc). However, five non-redshift measurements give a closer distance of 51. 66 ± 4. 59 Mly (15. 840 ± 1. 408 Mpc). It was discovered by German–American astronomer Christian Heinrich Friedrich Peters in 1881. It was also observed by German astronomer Friedrich Karl Arnold Schwassmann on 23 January 1900, resulting in it being listed in the Index Catalogue as IC 3339. There was a longstanding confusion of identification between this galaxy and the neighboring spiral galaxy NGC 4411B.",
+    "constellation": "Virgo",
+    "distance": "51. 66 ± 4. 59 Mly (15. 840 ± 1. 408 Mpc)"
+  },
+  "IC3340": {
+    "designation": "IC3340",
+    "name": "LEDA 40708",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3359": {
+    "designation": "IC3359",
+    "name": "LEDA 89605",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3376": {
+    "designation": "IC3376",
+    "name": "UGC 7578",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC3379": {
+    "designation": "IC3379",
+    "name": "LEDA 40955",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3390": {
+    "designation": "IC3390",
+    "name": "LEDA 3789697",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC3401": {
+    "designation": "IC3401",
+    "name": "LEDA 3089434",
+    "type": "compact galaxy",
+    "description": "Coma Berenices is an ancient asterism in the northern sky, which has been defined as one of the 88 modern constellations. It is in the direction of the fourth galactic quadrant, between Leo and Boötes, and it is visible in both hemispheres. Its name means \"Berenice's Hair\" in Latin and refers to Queen Berenice II of Egypt, who sacrificed her long hair as a votive offering. It was introduced to Western astronomy during the third century BC by Conon of Samos and was further corroborated as a constellation by Gerardus Mercator and Tycho Brahe. It is the only modern constellation named after a historic person. [ a ]",
+    "constellation": "Canes Venatici Ursa Major Leo Virgo Boötes"
+  },
+  "IC3402": {
+    "designation": "IC3402",
+    "name": "UGC 7616",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3403": {
+    "designation": "IC3403",
+    "name": "LEDA 41105",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3418": {
+    "designation": "IC3418",
+    "name": "UGC 7630",
+    "type": "dwarf irregular galaxy",
+    "description": "IC 3418 is a galaxy in the constellation Virgo. It is most well noted for its tidal tail, which formed after the galaxy collided with the Virgo Cluster some 54 million light years from Earth. The galaxy is home to many starburst regions.",
+    "constellation": "Virgo",
+    "distance": "55 Mly (17 mpc)"
+  },
+  "IC3430": {
+    "designation": "IC3430",
+    "name": "UGC 7643",
+    "type": "dwarf elliptical galaxy",
+    "description": "IC 3430 is a dwarf elliptical galaxy located around 45 million light years away in the constellation of Virgo. It is a member of other Virgo Cluster.",
+    "constellation": "Virgo",
+    "distance": "45 million ly"
+  },
+  "IC3427": {
+    "designation": "IC3427",
+    "name": "NGC 4482",
+    "type": "dwarf elliptical galaxy",
+    "description": "NGC 4482 is a dwarf elliptical galaxy located about 60 million light-years away in the constellation Virgo. NGC 4482 was discovered by astronomer William Herschel on March 15, 1784. It was rediscovered by astronomer Arnold Schwassmann on September 6, 1900 and was listed as IC 3427. It is a member of the Virgo Cluster.",
+    "constellation": "Virgo",
+    "distance": "58. 7 Mly"
+  },
+  "IC3438": {
+    "designation": "IC3438",
+    "name": "NGC 4492",
+    "type": "spiral galaxy",
+    "description": "NGC 4492 is a spiral galaxy located about 90 million light-years away in the constellation Virgo. NGC 4492 was discovered by astronomer William Herschel on December 28, 1785. It was rediscovered by astronomer Arnold Schwassmann on January 23, 1900, and was listed as IC 3438. NGC 4492 lies in the direction of the Virgo Cluster. However, it is not considered to be a member of that cluster.",
+    "constellation": "Virgo",
+    "distance": "90, 950, 000 ly"
+  },
+  "IC3441": {
+    "designation": "IC3441",
+    "name": "LEDA 41412",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC3447": {
+    "designation": "IC3447",
+    "name": "LEDA 165209",
+    "type": "spiral galaxy",
+    "description": "IC 3447 (or PGC 165209) is a type Sc barred spiral galaxy [ citation needed ] located in the constellation Virgo. It has a redshift of 0. 092479, which means IC 3447 is 1. 27 billion light-years from Earth, making it one of the furthest objects in the Index Catalogue. The galaxy has apparent dimensions of 0. 30 x 0. 3 arcmin, which means IC 3447 is 111, 000 light-years across. It was discovered by Royal Harwood Frost on May 10, 1904.",
+    "constellation": "Virgo",
+    "distance": "1. 273 Gly (390. 6 Mpc)"
+  },
+  "IC3452": {
+    "designation": "IC3452",
+    "name": "NGC 4497",
+    "type": "lenticular galaxy",
+    "description": "NGC 4497 is a lenticular galaxy located about 60 million light-years away in the constellation Virgo. NGC 4497 was discovered by astronomer William Herschel on March 15, 1784. It was rediscovered by astronomer Arnold Schwassmann on November 8, 1900 and was listed as IC 3452. NGC 4497 is a member of the Virgo Cluster.",
+    "constellation": "Virgo",
+    "distance": "61, 288, 000 ly"
+  },
+  "IC3491": {
+    "designation": "IC3491",
+    "name": "LEDA 86322",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3505": {
+    "designation": "IC3505",
+    "name": "LEDA 41792",
+    "type": "barred spiral galaxy",
+    "description": "IC 3505 is a barred spiral galaxy located 640 million light-years away from the Solar System in the Coma Berenices constellation. With an apparent size of 0. 95 by 0. 35 arcmin, IC 3505 has an estimated diameter of 170, 000 light-years, making it slightly larger compared to the Milky Way. It is categorized as a LINER galaxy with an active galactic nucleus emitting weak emission-lines.",
+    "constellation": "Coma Berenices",
+    "distance": "645 Mly (197. 8 Mpc)"
+  },
+  "IC3507": {
+    "designation": "IC3507",
+    "name": "LEDA 3089514",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC3523": {
+    "designation": "IC3523",
+    "name": "LEDA 169559",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3528": {
+    "designation": "IC3528",
+    "name": "LEDA 41882",
+    "type": "spiral galaxy",
+    "description": "IC 3528 is spiral galaxy located 660 million light-years away in the constellation of Coma Berenices. It lies near to another spiral galaxy NGC 4540, although the two of them are quite far. The object was discovered by Royal Harwood Frost on May 7, 1904. Although listed as a member in the Virgo Cluster Catalogue as VCC 1593, it is not a member of the Virgo cluster but a background galaxy.",
+    "constellation": "Coma Berenices",
+    "distance": "657 Mly (201. 43 Mpc)"
+  },
+  "IC3545": {
+    "designation": "IC3545",
+    "name": "NGC 4555",
+    "type": "elliptical galaxy",
+    "description": "NGC 4555 is a solitary elliptical galaxy about 40, 000 parsecs (125, 000 light-years) across, and about 310 million light-years distant. Observations by the Chandra X-ray Observatory have shown it to be surrounded by a halo of hot gas about 120, 000 parsecs across. The hot gas has a temperature of around 10, 000, 000 kelvin. The galaxy is one of the few elliptical galaxies proven to have significant amounts of dark matter. Large amounts of dark matter are necessary to prevent the gas from escaping the galaxy; the visible mass clearly is not large enough to hold such an extensive gas halo. The dark matter halo is estimated to have 10 times the mass of the stars in the galaxy.",
+    "constellation": "Coma Berenices"
+  },
+  "IC3568": {
+    "designation": "IC3568",
+    "name": "Lemon Slice Nebula",
+    "type": "planetary nebula",
+    "description": "IC 3568 is a planetary nebula that is 1. 3 kiloparsecs (4500 ly) away from Earth in the constellation of Camelopardalis (just 7. 5 degrees from Polaris). It is a relatively young nebula and has a core diameter of only about 0. 4 light years. It was dubbed the Lemon Slice Nebula by Jim Kaler, due to its appearance in one false-colour image from the Hubble Space Telescope. The Lemon Slice Nebula is one of the most simple nebulae known, with an almost perfectly spherical morphology. The core of the nebula does not have a distinctly visible structure in formation and is mostly composed of ionized helium. A faint halo of interstellar dust surrounds the nebula.",
+    "distance": "Roughly 4. 5⋅10 3 ly",
+    "constellation": "Camelopardalis"
+  },
+  "IC3569": {
+    "designation": "IC3569",
+    "name": "NGC 4561",
+    "type": "spiral galaxy",
+    "description": "NGC 4561 is a barred spiral galaxy in the constellation Coma Berenices. It was discovered by German-British astronomer William Herschel on April 13, 1784. This galaxy is located at a distance of 82 ± 14 million light-years (25. 2 ± 4. 3 Mpc) from the Milky Way, and is a member of the Virgo Cluster of galaxies. It is 13th magnitude with an angular size of 1. 5′.",
+    "constellation": "Coma Berenices",
+    "distance": "82 ± 14 Mly (25. 2 ± 4. 3 Mpc)"
+  },
+  "IC3583": {
+    "designation": "IC3583",
+    "name": "UGC 7784",
+    "type": "irregular galaxy",
+    "description": "IC 3583 is an irregular galaxy some 30 million light-years away in the constellation of Virgo. It was discovered by Isaac Roberts on April 29, 1892.",
+    "constellation": "Virgo",
+    "distance": "9. 1 megaparsecs (30 Mly)"
+  },
+  "IC3588": {
+    "designation": "IC3588",
+    "name": "NGC 4571",
+    "type": "spiral galaxy",
+    "description": "NGC 4571 is a spiral galaxy located in the constellation of Coma Berenices. It was discovered by German-British astronomer William Herschel on 14 January 1787. It was also observed by German astronomer Friedrich Schwassmann on 23 November 1900, causing it to be listed in the Index Catalogue as IC 3588. John Dreyer thought this galaxy might be the \"lost\" Messier 91, but in 1969, amateur astronomer William C. Williams realized that M91 was actually NGC 4548.",
+    "constellation": "Coma Berenices",
+    "distance": "52. 59 ± 1. 66 Mly (16. 124 ± 0. 508 Mpc)"
+  },
+  "IC3593": {
+    "designation": "IC3593",
+    "name": "Mrk 776",
+    "type": "seyfert 1 galaxy",
+    "description": "Seyfert galaxies are one of the two largest groups of active galaxies, along with quasar host galaxies. They have quasar-like nuclei (very luminous sources of electromagnetic radiation that are outside of our own galaxy) with very high surface brightnesses whose spectra reveal strong, high- ionisation emission lines, but unlike quasars, their host galaxies are clearly detectable."
+  },
+  "IC3601": {
+    "designation": "IC3601",
+    "name": "LEDA 165275",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC3606": {
+    "designation": "IC3606",
+    "name": "LEDA 1412725",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC3622": {
+    "designation": "IC3622",
+    "name": "Barred spiral galaxy",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC3629": {
+    "designation": "IC3629",
+    "name": "LEDA 42387",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3667": {
+    "designation": "IC3667",
+    "name": "NGC 4618",
+    "type": "dwarf galaxy",
+    "description": "NGC 4618 is a distorted barred dwarf galaxy in the constellation Canes Venatici. The galaxy is formally classified as a Sm galaxy, which means that its structure vaguely resembles the structure of spiral galaxies. The galaxy is sometimes referred to as a Magellanic spiral because of its resemblance to the Magellanic clouds.",
+    "constellation": "Canes Venatici"
+  },
+  "IC3675": {
+    "designation": "IC3675",
+    "name": "NGC 4625",
+    "type": "dwarf galaxy",
+    "description": "NGC 4625 is a distorted dwarf galaxy in the constellation Canes Venatici. The galaxy is formally classified as a Sm galaxy, which means that its structure vaguely resembles the structure of spiral galaxies. The galaxy is sometimes referred to as a Magellanic spiral because of its resemblance to the Large Magellanic Cloud 's single-arm structure.",
+    "constellation": "Canes Venatici"
+  },
+  "IC3683": {
+    "designation": "IC3683",
+    "name": "LEDA 1637726",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3688": {
+    "designation": "IC3688",
+    "name": "NGC 4633",
+    "type": "spiral galaxy",
+    "description": "NGC 4633 is a spiral galaxy located about 70 million light-years away in the constellation of Coma Berenices. It is interacting with the nearby galaxy NGC 4634. NGC 4633 was discovered by astronomer Edward D. Swift on April 27, 1887. It was rediscovered on November 23, 1900, by astronomer Arnold Schwassmann and was later listed as IC 3688. NGC 4633 is a member of the Virgo Cluster.",
+    "constellation": "Coma Berenices",
+    "distance": "69, 154, 400 ly"
+  },
+  "IC3785": {
+    "designation": "IC3785",
+    "name": "LEDA 3796270",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC3786": {
+    "designation": "IC3786",
+    "name": "LEDA 2142309",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3789": {
+    "designation": "IC3789",
+    "name": "LEDA 1619535",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3833": {
+    "designation": "IC3833",
+    "name": "NGC 4722",
+    "type": "lenticular galaxy",
+    "description": "NGC 4722 is a lenticular galaxy in the constellation of Corvus. Its velocity with respect to the cosmic microwave background is 1647 ± 25 km/s, which corresponds to a Hubble distance of 79. 3 ± 5. 7 Mly (24. 3 ± 1. 75 Mpc). In addition, two non-redshift measurements give a farther distance of 89. 2 ± 39. 3 Mly (27. 35 ± 12. 05 Mpc). It was discovered by German astronomer Wilhelm Tempel in 1882. It was also observed by French astronomer Guillaume Bigourdan on 15 April 1895 and listed in the Index Catalogue as IC 3833.",
+    "constellation": "Corvus",
+    "distance": "79. 3 ± 5. 7 Mly (24. 30 ± 1. 75 Mpc)"
+  },
+  "IC3853": {
+    "designation": "IC3853",
+    "name": "LEDA 2137536",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3854": {
+    "designation": "IC3854",
+    "name": "LEDA 2171843",
+    "type": "pair of galaxies",
+    "description": "Canes Venatici (/ ˈ k eɪ n iː z v ɪ ˈ n æ t ɪ s aɪ / KAY -neez vin- AT -iss-eye) is one of the 88 constellations designated by the International Astronomical Union (IAU). It is a small northern constellation that was created by Johannes Hevelius in the 17th century. Its name is Latin for ' hunting dogs ', and the constellation is often depicted in illustrations as representing the dogs of Boötes the Herdsman, a neighboring constellation.",
+    "constellation": "Ursa Major Boötes Coma Berenices"
+  },
+  "IC3867": {
+    "designation": "IC3867",
+    "name": "LEDA 87471",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3870": {
+    "designation": "IC3870",
+    "name": "LEDA 1668852",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC3873": {
+    "designation": "IC3873",
+    "name": "LEDA 1573410",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3875": {
+    "designation": "IC3875",
+    "name": "LEDA 1662288",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3880": {
+    "designation": "IC3880",
+    "name": "LEDA 1671124",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3881": {
+    "designation": "IC3881",
+    "name": "LEDA 43961",
+    "type": "compact galaxy",
+    "description": "Coma Berenices is an ancient asterism in the northern sky, which has been defined as one of the 88 modern constellations. It is in the direction of the fourth galactic quadrant, between Leo and Boötes, and it is visible in both hemispheres. Its name means \"Berenice's Hair\" in Latin and refers to Queen Berenice II of Egypt, who sacrificed her long hair as a votive offering. It was introduced to Western astronomy during the third century BC by Conon of Samos and was further corroborated as a constellation by Gerardus Mercator and Tycho Brahe. It is the only modern constellation named after a historic person. [ a ]",
+    "constellation": "Canes Venatici Ursa Major Leo Virgo Boötes"
+  },
+  "IC3928": {
+    "designation": "IC3928",
+    "name": "LEDA 2165833",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC3934": {
+    "designation": "IC3934",
+    "name": "LEDA 1571543",
+    "type": "barred spiral galaxy",
+    "description": "A barred spiral galaxy is a spiral galaxy with a central bar-shaped structure composed of stars. Bars are found in about two thirds of all spiral galaxies in the local universe, and generally affect both the motions of stars and interstellar gas within spiral galaxies and can affect spiral arms as well. The Milky Way Galaxy, where the Solar System is located, is classified as a barred spiral galaxy."
+  },
+  "IC3948": {
+    "designation": "IC3948",
+    "name": "LEDA 1698844",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC4000": {
+    "designation": "IC4000",
+    "name": "LEDA 2152407",
+    "type": "compact galaxy",
+    "description": "Canes Venatici (/ ˈ k eɪ n iː z v ɪ ˈ n æ t ɪ s aɪ / KAY -neez vin- AT -iss-eye) is one of the 88 constellations designated by the International Astronomical Union (IAU). It is a small northern constellation that was created by Johannes Hevelius in the 17th century. Its name is Latin for ' hunting dogs ', and the constellation is often depicted in illustrations as representing the dogs of Boötes the Herdsman, a neighboring constellation.",
+    "constellation": "Ursa Major Boötes Coma Berenices"
+  },
+  "IC4020": {
+    "designation": "IC4020",
+    "name": "LEDA 2131719",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC4026": {
+    "designation": "IC4026",
+    "name": "LEDA 44749",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC4037": {
+    "designation": "IC4037",
+    "name": "LEDA 2141402",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC4040": {
+    "designation": "IC4040",
+    "name": "LEDA 44789",
+    "type": "barred spiral galaxy",
+    "description": "IC 4040 is a type SABc spiral galaxy with a bar in Coma Berenices. It is located 353 million light-years away from the Solar System and has an estimated diameter of 105, 000 light-years making it slightly larger than the Milky Way. IC 4040 was discovered on April 12, 1891, by Guillaume Bigourdan and is a member of the Coma Cluster.",
+    "constellation": "Coma Berenices",
+    "distance": "353 Mly (108. 2 Mpc)"
+  },
+  "IC4051": {
+    "designation": "IC4051",
+    "name": "LEDA 52810",
+    "type": "elliptical galaxy",
+    "description": "IC 4051 is a large elliptical galaxy in the northern constellation of Coma Berenices. It was discovered by the French astronomer Guillaume Bigourdan on April 12, 1891. This object is located 14 ′ east of the core of the large Coma Cluster of galaxies, at a distance of 330 million light-years (100 Mpc) from the Milky Way. With a combined apparent visual magnitude of 13. 20, it is the fifth brightest galaxy within a degree of the cluster core. The galaxy displays a significant radial velocity difference from the cluster as a whole, indicating that it may oscillate back-and-forth through the cluster and is now passing through the more dense core at high velocity.",
+    "constellation": "Coma Berenices",
+    "distance": "330 Mly (100 Mpc)"
+  },
+  "IC4079": {
+    "designation": "IC4079",
+    "name": "LEDA 1585609",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC4082": {
+    "designation": "IC4082",
+    "name": "LEDA 2098435",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC4100": {
+    "designation": "IC4100",
+    "name": "UGC 8144",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC4130": {
+    "designation": "IC4130",
+    "name": "LEDA 45103",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC4141": {
+    "designation": "IC4141",
+    "name": "LEDA 45147",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC4144": {
+    "designation": "IC4144",
+    "name": "UGC 8169",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC4145": {
+    "designation": "IC4145",
+    "name": "LEDA 2122937",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC4182": {
+    "designation": "IC4182",
+    "name": "UGC 8188",
+    "type": "Magellanic spiral galaxy",
+    "description": "IC 4182 is a Magellanic spiral galaxy in the constellation Canes Venatici. The galaxy lies about 14 million light years away from Earth, which means, given its apparent dimensions, that IC 4182 is approximately 28, 000 light years across. It was discovered by German astronomer Max Wolf on 21 March 1903.",
+    "constellation": "Canes Venatici",
+    "distance": "13. 7 ± 2. 6 Mly (4. 2 ± 0. 79 Mpc)"
+  },
+  "IC4214": {
+    "designation": "IC4214",
+    "name": "LEDA 46304",
+    "type": "Barred spiral galaxy",
+    "description": "IC 4214 is a barred spiral galaxy in the constellation Centaurus. It's classified as a type SBaB galaxy. It was first discovered in 1897 by astronomer Lewis Swift. The galaxy is approximately 100 thousand light-years across.",
+    "constellation": "Centaurus",
+    "distance": "106 million LY"
+  },
+  "IC4271": {
+    "designation": "IC4271",
+    "name": "LEDA 47334",
+    "type": "spiral galaxy",
+    "description": "IC 4271 is a spiral galaxy located some 800 million light-years away in the Canes Venatici constellation. It is 157, 000 light-years in diameter. IC 4271 was first located on July 10, 1896, by Stephane Javelle, a French astronomer. It hosts a Seyfert type 2 nucleus, containing an acceleration disc around its supermassive black hole which releases large amounts of radiation, hence its bright appearance. IC 4271 appears to be interacting with its smaller neighboring galaxy, PGC 3096774.",
+    "constellation": "Canes Venatici",
+    "distance": "800 Mly (245. 3 Mpc)"
+  },
+  "IC4274": {
+    "designation": "IC4274",
+    "name": "NGC 5189",
+    "type": "planetary nebula",
+    "description": "NGC 5189 (Gum 47, IC 4274, nicknamed Spiral Planetary Nebula) is a planetary nebula in the constellation Musca. It was discovered by James Dunlop on 1 July 1826, who catalogued it as Δ252. For many years, well into the 1960s, it was thought to be a bright emission nebula. It was Karl Gordon Henize in 1967 who first described NGC 5189 as quasi-planetary based on its spectral emissions.",
+    "distance": "3000 ly",
+    "constellation": "Musca"
+  },
+  "IC4338": {
+    "designation": "IC4338",
+    "name": "NGC 5334",
+    "type": "barred spiral galaxy",
+    "description": "NGC 5334 is a face-on barred spiral galaxy in the constellation Virgo. Its velocity with respect to the cosmic microwave background is 1668 ± 20 km/s, which corresponds to a Hubble distance of 80. 2 ± 5. 7 Mly (24. 60 ± 1. 75 Mpc). However, five non-redshift measurements give a distance of 108. 68 ± 7. 45 Mly (33. 320 ± 2. 283 Mpc). It was discovered by German-British astronomer William Herschel on 15 April 1787. It was also observed by American astronomer Lewis Swift on 20 April 1897 and listed in the Index Catalogue as IC 4338.",
+    "constellation": "Virgo",
+    "distance": "80. 2 ± 5. 7 Mly (24. 60 ± 1. 75 Mpc)"
+  },
+  "IC4381": {
+    "designation": "IC4381",
+    "name": "NGC 5008",
+    "type": "barred spiral galaxy",
+    "description": "NGC 5008 (also known as IC 4381) is a massive barred spiral galaxy located in the Boötes constellation.",
+    "constellation": "Boötes",
+    "distance": "525 Mly (160. 9 Mpc)"
+  },
+  "IC4397": {
+    "designation": "IC4397",
+    "name": "UGC 9150",
+    "type": "spiral galaxy",
+    "description": "IC 4397 is a spiral galaxy in the constellation of Boötes. Its velocity with respect to the cosmic microwave background is 4, 627 ± 16 km/s, which corresponds to a Hubble distance of 222. 6 ± 15. 6 Mly (68. 25 ± 4. 78 Mpc). It was discovered by French astronomer Guillaume Bigourdan on 23 June 1889.",
+    "constellation": "Boötes",
+    "distance": "222. 6 ± 15. 6 Mly (68. 25 ± 4. 78 Mpc)"
+  },
+  "IC4406": {
+    "designation": "IC4406",
+    "name": "IC 4406",
+    "type": "planetary nebula",
+    "description": "IC 4406, sometimes known as the Retina Nebula, is a planetary nebula near the western border of the constellation Lupus, the Wolf. It has dust clouds and has the shape of a torus. Despite this, it looks somewhat rectangular because it is seen from its side as viewed from Earth, almost in the plane of its equator.",
+    "distance": "2. 0 kly (600 pc) ly",
+    "constellation": "Lupus"
+  },
+  "IC4461": {
+    "designation": "IC4461",
+    "name": "UGC 9384",
+    "type": "spiral galaxy",
+    "description": "IC 4461 is a spiral galaxy located in the Boötes constellation, located at distance of 417 million light-years from both the Milky Way and Andromeda Galaxy.",
+    "constellation": "Boötes",
+    "distance": "417 Mly"
+  },
+  "IC4462": {
+    "designation": "IC4462",
+    "name": "Arp 95",
+    "type": "elliptical galaxy",
+    "description": "IC 4462 is an elliptical galaxy located in the Boötes constellation. It is located 417 million light-years away from the Solar System and was found by Stephane Javelle on June 22, 1895 the same day he discovered IC 4461, a spiral galaxy. It is gravitationally interacting with IC 4461 and possibly might merge with the latter in the future. Both galaxies form Arp 95, which they are classified under galaxies that have elliptical companions. Sometimes the galaxy is confused with IC 4461.",
+    "constellation": "Boötes",
+    "distance": "417 Mly"
+  },
+  "IC4481": {
+    "designation": "IC4481",
+    "name": "LEDA 1501729",
+    "type": "barred spiral galaxy",
+    "description": "IC 4481 is a type SBbc barred spiral galaxy located in Boötes. Its redshift is 0. 110727, meaning IC 4481 is located 1. 49 billion light-years away from Earth. It is one of the furthest objects in the Index Catalogue and has an apparent dimension of 0. 30 x 0. 2 arcmin. IC 4481 was discovered on May 10, 1904, by Royal Harwood Frost, who found it \"faint, very small, round and diffuse\".",
+    "constellation": "Boötes",
+    "distance": "1. 497 Gly (459 Mpc)"
+  },
+  "IC4499": {
+    "designation": "IC4499",
+    "name": "IC 4499",
+    "type": "globular cluster",
+    "description": "IC 4499 is a loose globular cluster in the constellation Apus. It is located in the medium-far galactic halo. Its apparent magnitude is 9. 76, and was thought to be unusual because it appears to be 3–4 billion years younger than most other globular clusters in the Milky Way, as determined by metallicity measurements in 1995. However, this was contradicted in 2011 by results that yielded a much older age of 12 billion years.",
+    "constellation": "Apus",
+    "distance": "50, 000 ly (15, 000 pc)"
+  },
+  "IC4516": {
+    "designation": "IC4516",
+    "name": "UGC 9587",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC4537": {
+    "designation": "IC4537",
+    "name": "LEDA 54583",
+    "type": "lenticular galaxy",
+    "description": "IC 4537 is a type S0-a lenticular galaxy located in the Serpens constellation. It is located 736 million light-years from the Solar System and was discovered by astronomer Edward Emerson Barnard although the year of discovery was unknown. IC 4537 has a surface brightness of magnitude 23. 9 and a right ascension of (15 hours: 17. 5 minutes) and declination (+0. 2 degrees: 02 minutes). IC 4537 is located approximately 15 arc minutes away from the globular cluster Messier 5.",
+    "constellation": "Serpens",
+    "distance": "736 Mly (225. 6 Mpc)"
+  },
+  "IC4539": {
+    "designation": "IC4539",
+    "name": "LEDA 54642",
+    "type": "intermediate spiral galaxy",
+    "description": "IC 4539 is a type SABb intermediate spiral galaxy located in Corona Borealis. Its redshift is 0. 061307, which corresponds IC 4539 to be 845 million light-years from Earth. It has an apparent dimension of 0. 40 by 0. 4 arcmin, meaning the galaxy is about 95, 000 light-years across. IC 4539 was discovered by Stephane Javelle on June 23, 1903, who found it \"as faint, small, round with a very brighter middle.\"",
+    "constellation": "Corona Borealis",
+    "distance": "845 Mly (259. 1 Mpc)"
+  },
+  "IC4553": {
+    "designation": "IC4553",
+    "name": "Same asIC 1127",
+    "description": "Arp 220 is the result of a collision between two galaxies which are now in the process of merging. It is the 220th object in Halton Arp 's Atlas of Peculiar Galaxies.",
+    "constellation": "Serpens",
+    "type": "S?"
+  },
+  "IC4588": {
+    "designation": "IC4588",
+    "name": "LEDA 57022",
+    "type": "elliptical galaxy",
+    "description": "IC 4588 is a type E elliptical galaxy located in the constellation Serpens. It is located 729 million light-years from the Solar System and has a dimension of 0. 30 x 0. 3 arcmin meaning its diameter is 64, 000 light-years across. IC 4588 was discovered by Stephane Javelle on July 15, 1903.",
+    "constellation": "Serpens",
+    "distance": "729 Mly (223. 5 Mpc)"
+  },
+  "IC4592": {
+    "designation": "IC4592",
+    "name": "IC 4592",
+    "type": "reflection nebula",
+    "description": "IC 4592 (also known as the Blue Horsehead Nebula) is a reflection nebula in the constellation of Scorpius that is lit by Nu Scorpii.",
+    "distance": "400 ly",
+    "constellation": "Scorpius"
+  },
+  "IC4593": {
+    "designation": "IC4593",
+    "name": "IC 4593",
+    "type": "planetary nebula",
+    "description": "IC 4593 (also known as the White-Eyed Pea Nebula) is a planetary nebula in the constellation Hercules. It was first discovered in 1907 by astronomer Williamina Fleming. The nebula is approximately 0. 96 light-years across. At the center of the nebula is a hot white dwarf that's known as HD 145649, which is an O-type star with a spectral type of O7f. The temperature of the white dwarf is approximately 30, 000 to 40, 000 K.",
+    "distance": "7, 900 ly",
+    "constellation": "Hercules"
+  },
+  "IC4617": {
+    "designation": "IC4617",
+    "name": "LEDA 2085077",
+    "type": "spiral galaxy",
+    "description": "IC 4617 is a type Sbc spiral galaxy located in the Hercules constellation. It is located 553 million light-years from the Solar System and has an estimated diameter of 115, 000 light-years thus making it slightly larger compared to the Milky Way. The galaxy was discovered by American astronomer, Edward Emerson Barnard or E. E. Barnard although no date of discovery was confirmed. IC 4617 is a member of Abell 2199 and happens to lie near towards the globular cluster, Messier 13.",
+    "constellation": "Hercules",
+    "distance": "553 Mly (169. 5 Mpc)"
+  },
+  "IC4625": {
+    "designation": "IC4625",
+    "name": "NGC 6240",
+    "type": "ultraluminous infrared galaxy",
+    "description": "NGC 6240, also known as the Starfish Galaxy, is a nearby ultraluminous infrared galaxy (ULIRG) in the constellation Ophiuchus. It was discovered by French astronomer Édouard Stephan on 12 July 1871.",
+    "constellation": "Ophiuchus",
+    "distance": "351. 9 ± 24. 7 Mly (107. 90 ± 7. 56 Mpc)"
+  },
+  "IC4628": {
+    "designation": "IC4628",
+    "name": "Prawn Nebula",
+    "type": "emission nebula",
+    "description": "Prawn Nebula, also known as IC 4628, is an emission nebula located in the Sagittarius Arm of the Milky Way, around 6, 000 light-years from Earth in the constellation Scorpius. It forms part of the tail of the \"False Comet\" anchored by the bright open cluster NGC 6231.",
+    "distance": "6, 000 ly",
+    "constellation": "Scorpius"
+  },
+  "IC4651": {
+    "designation": "IC4651",
+    "name": "Collinder 327",
+    "type": "open cluster",
+    "description": "IC 4651 is an open cluster of stars located about 2, 900 light years distant in the constellation Ara. It was first catalogued by John Louis Emil Dreyer in his 1895 version of the Index Catalogue. This is an intermediate age cluster that is 1. 2 ± 0. 2 billion years old. Compared to the Sun, the members of this cluster have a higher abundance of the chemical elements other than hydrogen and helium. The combined mass of the active stars in this cluster is about 630 times the mass of the Sun.",
+    "distance": "2, 900 ly (888 pc)",
+    "constellation": "Ara"
+  },
+  "IC4662": {
+    "designation": "IC4662",
+    "name": "LEDA 60851",
+    "type": "irregular galaxy",
+    "description": "IC 4662, also known as ESO 102-14 is an irregular galaxy located in the constellation Pavo 7. 96 million light years away. It was discovered by Robert T. A. Innes in 1901. It has a diameter of 7000 light years and an angular size of 3. 2' x 1. 9'.",
+    "constellation": "Pavo",
+    "distance": "2. 440 megaparsecs (7. 96 Mly)"
+  },
+  "IC4665": {
+    "designation": "IC4665",
+    "name": "IC4665",
+    "type": "Open Cluster",
+    "constellation": "Oph",
+    "catalog": "IC",
+    "ra": 266.61325,
+    "dec": 5.648722222222221,
+    "magnitude": "4.2",
+    "description": "A open cluster in the constellation Oph."
+  },
+  "IC4677": {
+    "designation": "IC4677",
+    "name": "Cat's Eye Nebula",
+    "type": "planetary nebula",
+    "description": "The Cat's Eye Nebula (also known as NGC 6543 and Caldwell 6) is a planetary nebula in the northern constellation of Draco, discovered by William Herschel on February 15, 1786. It was the first planetary nebula whose spectrum was investigated by the English amateur astronomer William Huggins, demonstrating that planetary nebulae were gaseous and not stellar in nature. Structurally, the object has had high-resolution images by the Hubble Space Telescope revealing knots, jets, bubbles and complex arcs, being illuminated by the central hot planetary nebula nucleus (PNN). It is a well-studied object that has been observed from radio to X-ray wavelengths. At the centre of the Cat's Eye Nebula is a dying Wolf–Rayet star, the sort of which can be seen in the Webb Telescope's image of WR 124. The Cat's Eye Nebula's central star shines at magnitude +11. 4. Hubble Space Telescope images show a sort of dart board pattern of concentric rings emanating outwards from the centre.",
+    "distance": "3. 3 ± 0. 9 kly (1. 0 ± 0. 3 kpc) ly",
+    "constellation": "Draco"
+  },
+  "IC4690": {
+    "designation": "IC4690",
+    "name": "NGC 6589",
+    "type": "reflection nebula",
+    "description": "NGC 6589 is a reflection nebula located in the constellation of Sagittarius, and it was discovered by Truman Safford on August 28, 1867. In August 1905, Edward Barnard listed it as IC 4690.",
+    "constellation": "Sagittarius"
+  },
+  "IC4703": {
+    "designation": "IC4703",
+    "name": "Eagle Nebula",
+    "type": "emission nebula",
+    "description": "The Eagle Nebula (catalogued as Messier 16 or M16, and as NGC 6611, and also known as the Star Queen Nebula) is a young open cluster of stars in the constellation Serpens, discovered by Jean-Philippe de Cheseaux in 1745–46. Both the \"Eagle\" and the \"Star Queen\" refer to visual impressions of the dark silhouette near the center of the nebula, an area made famous as the \" Pillars of Creation \" imaged by the Hubble Space Telescope. The nebula contains several active star-forming gas and dust regions, including the aforementioned Pillars of Creation. The Eagle Nebula lies in the Sagittarius Arm of the Milky Way.",
+    "distance": "5, 700 ± 400 ly (1, 740 ± 130 pc)",
+    "constellation": "Serpens"
+  },
+  "IC4710": {
+    "designation": "IC4710",
+    "name": "LEDA 61922",
+    "type": "irregular galaxy",
+    "description": "IC 4710 is a galaxy in southern constellation of Pavo, roughly 34 million light-years away. Discovered on August 18, 1900 by astronomer DeLisle Stewart, this galaxy is composed of bright stars, with bright pockets — marking bursts of new star formation — scattered around its edges. It has a diameter of 36, 000 light-years.",
+    "constellation": "Pavo",
+    "distance": "10. 3 megaparsecs (34 Mly)"
+  },
+  "IC4715": {
+    "designation": "IC4715",
+    "name": "Messier 24",
+    "type": "star cloud",
+    "description": "The Small Sagittarius Star Cloud (also known as Messier 24 and IC 4715) is a star cloud in the constellation of Sagittarius approximately 600 light years wide, which was catalogued by Charles Messier in 1764. It should not be confused with the nearby Large Sagittarius Star Cloud which lies about 10° to the south.",
+    "distance": "~10 kly (3070 pc)",
+    "constellation": "Sagittarius"
+  },
+  "IC4725": {
+    "designation": "IC4725",
+    "name": "Messier 25",
+    "type": "open cluster",
+    "description": "Messier 25, also known as IC 4725, is an open cluster of stars in the southern constellation of Sagittarius. The first recorded observation of this cluster was made by Philippe Loys de Chéseaux in 1745 and it was included in Charles Messier 's list of nebulous objects in 1764. The cluster is located near some obscuring features, with a dark lane passing near the center.",
+    "distance": "2, 000 ly (620 pc)"
+  },
+  "IC4756": {
+    "designation": "IC4756",
+    "name": "Melotte 210",
+    "type": "open cluster",
+    "description": "IC 4756 is a large bright open cluster in the constellation Serpens. Known as Graff's Cluster, it is bright enough to be seen with the naked eye and considered a fine cluster for binoculars or small telescopes.",
+    "distance": "1. 3 kly (400 pc)",
+    "constellation": "Serpens"
+  },
+  "IC4765": {
+    "designation": "IC4765",
+    "name": "Collinder 386",
+    "type": "open cluster",
+    "description": "IC 4756 is a large bright open cluster in the constellation Serpens. Known as Graff's Cluster, it is bright enough to be seen with the naked eye and considered a fine cluster for binoculars or small telescopes.",
+    "distance": "1. 3 kly (400 pc)",
+    "constellation": "Serpens"
+  },
+  "IC4850": {
+    "designation": "IC4850",
+    "name": "V606 Aquilae",
+    "type": "classical nova",
+    "description": "V606 Aquilae was a nova, which lit up in the constellation Aquila in 1899. The brightest reported magnitude for this nova was apparent magnitude 5. 5, making it a naked eye object. It was discovered by Williamina Fleming on a photographic plate (one of the Henry Draper Memorial Photographs) taken on 21 April 1899 at the Harvard College Observatory. On the discovery plate, its photographic magnitude was later determined to be 6. 75. It was not seen on the plate taken on 1 November 1898, and there were no reported observations of the region around the star during the 171 day interval before Fleming's discovery, so it is possible that the actual maximum of the event was missed. By 27 October 1899 it had faded to 10th magnitude, and on 9 July 1900 Oliver Wendell reported its brightness to be between magnitude 11. 5 and 12. 0.",
+    "constellation": "Aquila"
+  },
+  "IC4895": {
+    "designation": "IC4895",
+    "name": "NGC 6822",
+    "type": "barred irregular galaxy",
+    "description": "NGC 6822 (also known as Barnard's Galaxy, IC 4895, or Caldwell 57) is a barred irregular galaxy approximately 1. 6 million light-years away in the constellation Sagittarius. Part of the Local Group of galaxies, it was discovered by E. E. Barnard in 1884, with a six-inch refractor telescope. It is the closest non-satellite galaxy to the Milky Way, but lies just outside its virial radius. It is similar in structure and composition to the Small Magellanic Cloud. It is about 7, 000 light-years in diameter.",
+    "constellation": "Sagittarius",
+    "distance": "1. 63 ± 0. 03 Mly (500 ± 10 kpc)"
+  },
+  "IC4948": {
+    "designation": "IC4948",
+    "name": "NGC 6902",
+    "type": "spiral galaxy",
+    "description": "NGC 6902 is an unbarred spiral galaxy located in the southern constellation of Sagittarius at an approximate distance of 124 million light-years (38. 0 Mpc). NGC 6902 was discovered on September 2, 1836 by English astronomer John Herschel. In his New General Catalogue, Danish astronomer J. L. E. Dreyer described it as faint, considerably small, round, brighter middle. It is a member of the small NGC 6092 group of galaxies; the LGG 434 group.",
+    "constellation": "Sagittarius",
+    "distance": "124 Mly (38. 0 Mpc)"
+  },
+  "IC4970": {
+    "designation": "IC4970",
+    "name": "LEDA 63616",
+    "type": "unbarred lenticular galaxy",
+    "description": "IC 4970 is an unbarred lenticular galaxy of type SA0^- pec: in the constellation Pavo. It is 212 million light-years (65 Mpc) from Earth and is interacting with the barred spiral galaxy NGC 6872. It was discovered on 21 September 1900 by American astronomer DeLisle Stewart.",
+    "constellation": "Pavo",
+    "distance": "212 × 10 ^ 6 ly (65 Mpc)"
+  },
+  "IC4997": {
+    "designation": "IC4997",
+    "name": "IC 4997",
+    "type": "planetary nebula",
+    "description": "IC 4997 is a planetary nebula located in the constellation of Sagitta. It was discovered in 1896 by Edward Charles Pickering and Williamina Fleming, and independently by Gustav Gruss the same year. This nebula is about 14, 000 light-years from Earth. It looks like an ordinary star in smaller telescopes, and only detailed study of its spectrum reveals its nebular characteristics.",
+    "distance": "14, 090 (4, 320 pc) ly",
+    "constellation": "Sagitta"
+  },
+  "IC5015": {
+    "designation": "IC5015",
+    "name": "NGC 6925",
+    "type": "unbarred spiral galaxy",
+    "description": "NGC 6925 is an unbarred spiral galaxy in the constellation Microscopium of apparent magnitude 11. 3. It is lens-shaped, as it lies almost edge on to observers on Earth. It lies 3. 7 degrees west-northwest of Alpha Microscopii.",
+    "constellation": "Microscopium",
+    "distance": "99. 62 ± 13. 57 Mly (30. 543 ± 4. 162 Mpc)"
+  },
+  "IC5052": {
+    "designation": "IC5052",
+    "name": "LEDA 65603",
+    "type": "barred spiral galaxy"
+  },
+  "IC5063": {
+    "designation": "IC5063",
+    "name": "LEDA 65600",
+    "type": "lenticular galaxy"
+  },
+  "IC5067": {
+    "designation": "IC5067",
+    "name": "",
+    "type": "lost object"
+  },
+  "IC5070": {
+    "designation": "IC5070",
+    "name": "Pelican Nebula",
+    "type": "HII Ionized region",
+    "constellation": "Cyg",
+    "catalog": "IC",
+    "ra": 312.753,
+    "dec": 44.4015,
+    "size": "60.0' × 50.0'",
+    "description": "An astronomical object in the constellation Cyg."
+  },
+  "IC5082": {
+    "designation": "IC5082",
+    "name": "NGC 7010",
+    "type": "elliptical galaxy"
+  },
+  "IC5121": {
+    "designation": "IC5121",
+    "name": "NGC 7096",
+    "type": "grand design spiral galaxy",
+    "description": "NGC 7096 is a grand-design spiral galaxy located about 130 million light-years away in the constellation of Indus. NGC 7096 is also part of a group of galaxies that contains the galaxy NGC 7083. NGC 7096 was discovered by astronomer John Herschel on August 31, 1836.",
+    "constellation": "Indus",
+    "distance": "133. 4 Mly"
+  },
+  "IC5135": {
+    "designation": "IC5135",
+    "name": "NGC 7130",
+    "type": "spiral galaxy",
+    "description": "NGC 7130 (also known as IC 5135) is a spiral galaxy located in the constellation Piscis Austrinus. It is located at a distance of about 220 million light years from Earth, which, given its apparent dimensions, means that NGC 7130 is about 188, 000 light years across. It was discovered by John Herschel on September 25, 1834, and discovered independently by Lewis Swift on September 17, 1897. The location of the galaxy given in the New General Catalogue was off by 30 arcminutes in declination from the location of the galaxy.",
+    "constellation": "Piscis Austrinus",
+    "distance": "221 Mly (68 Mpc)"
+  },
+  "IC5145": {
+    "designation": "IC5145",
+    "name": "UGC 11844",
+    "type": "spiral galaxy"
+  },
+  "IC5146": {
+    "designation": "IC5146",
+    "name": "Collinder 470",
+    "type": "open cluster",
+    "description": "IC 5146 (also Caldwell 19, Sh 2-125, Barnard 168, and the Cocoon Nebula) is a reflection / emission nebula and Caldwell object in the constellation Cygnus. The NGC description refers to IC 5146 as a cluster of 9. 5 mag stars involved in a bright and dark nebula. The cluster is also known as Collinder 470. It shines at magnitude +10. 0 /+9. 3 /+7. 2. Its celestial coordinates are RA 21 h 53. 5 m, dec +47° 16′. It is located near the naked-eye star Pi Cygni, the open cluster NGC 7209 in Lacerta, and the bright open cluster M39. The cluster is about 4, 000 ly away, and the central star that lights it formed about 100, 000 years ago; the nebula is about 12 arcmins across, which is equivalent to a span of 15 light years.",
+    "distance": "2500±100 ly (780±30 pc)",
+    "constellation": "Cygnus"
+  },
+  "IC5148": {
+    "designation": "IC5148",
+    "name": "",
+    "type": "planetary nebula"
+  },
+  "IC5152": {
+    "designation": "IC5152",
+    "name": "LEDA 67908",
+    "type": "irregular galaxy",
+    "description": "IC 5152 is an irregular galaxy 5. 8 million light-years from Earth in the constellation Indus. It was discovered by DeLisle Stewart in 1908. It is an open question as to whether it is an outlying member of the Local Group. It is one of the easiest galaxies to resolve into stars, but there is a bright (magnitude 7. 7) foreground star (HD 209142) right in front of it that makes deep observations difficult.",
+    "constellation": "Indus",
+    "distance": "5. 87 ± 1. 22 Mly (1. 801 ± 0. 374 Mpc)"
+  },
+  "IC5201": {
+    "designation": "IC5201",
+    "name": "LEDA 68618",
+    "type": "barred spiral galaxy"
+  },
+  "IC5228": {
+    "designation": "IC5228",
+    "name": "NGC 7302",
+    "type": "lenticular galaxy"
+  },
+  "IC5265": {
+    "designation": "IC5265",
+    "name": "Same asIC 1459"
+  },
+  "IC5281": {
+    "designation": "IC5281",
+    "name": "NGC 7466",
+    "type": "spiral galaxy"
+  },
+  "IC5294": {
+    "designation": "IC5294",
+    "name": "NGC 7552",
+    "type": "barred spiral galaxy"
+  },
+  "IC5316": {
+    "designation": "IC5316",
+    "name": "LEDA 1645026",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC5332": {
+    "designation": "IC5332",
+    "name": "LEDA 71775",
+    "type": "intermediate spiral galaxy",
+    "description": "IC 5332, also known as PGC 71775, is an intermediate spiral galaxy about 30 million light-years away in the constellation Sculptor. It was discovered by American astronomer Lewis Swift on 19 November 1897. IC 5332 is too faint to be visible to the naked eye, with an apparent magnitude of 10. 72. Viewed from earth, it is nearly face on. It has a very small central bulge and open spiral arms accounting for its SABc classification. The galaxy lies in the direction of the galactic south pole.",
+    "constellation": "Sculptor",
+    "distance": "28. 8 Mly (8. 84 Mpc)"
+  },
+  "IC5336": {
+    "designation": "IC5336",
+    "name": "LEDA 1642748",
+    "type": "interacting galaxies",
+    "description": "Interacting galaxies, also known as colliding galaxies, are two or more galaxies whose gravitational fields result in a disturbance of one another. There are several types of galactic interactions, including major interactions, minor interactions, and galaxy harassment. Major interactions occur between galaxies with similar amounts of mass, whereas minor interactions involve galaxies with masses that vary significantly. An example of a minor interaction is a satellite galaxy disturbing the primary galaxy's spiral arms. An example of a major interaction is a galactic collision, such as the one that astronomers estimate will happen in the future between the Milky Way and Andromeda. Collisions may lead to galaxy mergers and may also lead to other phenomena such as star formation and black hole activity."
+  },
+  "IC5337": {
+    "designation": "IC5337",
+    "name": "LEDA 71875",
+    "type": "spiral galaxy"
+  },
+  "IC5370": {
+    "designation": "IC5370",
+    "name": "LEDA 5",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC5371": {
+    "designation": "IC5371",
+    "name": "LEDA 24",
+    "type": "lenticular galaxy",
+    "description": "A lenticular galaxy (denoted S0) is a type of galaxy intermediate between an elliptical (denoted E) and a spiral galaxy in galaxy morphological classification schemes. It contains a large-scale disc but does not have large-scale spiral arms. Lenticular galaxies are disc galaxies that have used up or lost most of their interstellar matter and therefore have very little ongoing star formation. They may, however, retain significant dust in their disks. As a result, they consist mainly of aging stars (like elliptical galaxies). Despite the morphological differences, lenticular and elliptical galaxies share common properties like spectral features and scaling relations. Both can be considered early-type galaxies that are passively evolving, at least in the local part of the Universe. Connecting the E galaxies with the S0 galaxies are the ES galaxies with intermediate-scale discs."
+  },
+  "IC5378": {
+    "designation": "IC5378",
+    "name": "UGC 1",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC5381": {
+    "designation": "IC5381",
+    "name": "UGC 7",
+    "type": "spiral galaxy",
+    "description": "Spiral galaxies form a class of galaxy originally described by Edwin Hubble in his 1936 work The Realm of the Nebulae and, as such, form part of the Hubble sequence. Most spiral galaxies consist of a flat, rotating disk containing stars, gas and dust, and a central concentration of stars known as the bulge. These are often surrounded by a much fainter halo of stars, many of which reside in globular clusters."
+  },
+  "IC5386": {
+    "designation": "IC5386",
+    "name": "NGC 7832",
+    "type": "elliptical galaxy",
+    "description": "An elliptical galaxy is a type of galaxy with an approximately ellipsoidal shape and a smooth, nearly featureless image. They are one of the three main classes of galaxy described by Edwin Hubble in his Hubble sequence and 1936 work The Realm of the Nebulae, along with spiral and lenticular galaxies. Elliptical (E) galaxies are, together with lenticular galaxies (S0) with their large-scale disks, and ES galaxies with their intermediate scale disks, a subset of the \"early-type\" galaxy population."
+  },
+  "IC0443": {
+    "designation": "IC0443",
+    "name": "Gem A",
+    "type": "Supernova remnant",
+    "constellation": "Gem",
+    "catalog": "IC",
+    "ra": 94.155875,
+    "dec": 22.531666666666666,
+    "size": "50.0' × 40.0'",
+    "description": "An astronomical object in the constellation Gem."
+  }
+}
