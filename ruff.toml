@@ -1,0 +1,15 @@
+line-length = 120
+target-version = "py311"
+
+# Exclude directories
+exclude = [
+    "to_be_deleted",
+    "build",
+    "dist",
+    ".venv",
+    "node_modules",
+]
+
+[lint]
+select = ["F"]
+ignore = []

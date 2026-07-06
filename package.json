@@ -9,7 +9,8 @@
     "start:api": ".venv\\Scripts\\uvicorn backend.main:app --port 8000",
     "start:ui": "vite",
     "dev": "concurrently \"npm run start:api\" \"npm run start:ui\"",
-    "build": "vite build"
+    "build": "vite build",
+    "lint": "eslint ."
   },
   "dependencies": {
     "d3": "^7.9.0",
@@ -21,9 +22,14 @@
     "three": "^0.185.0"
   },
   "devDependencies": {
+    "@eslint/js": "^9.7.0",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.19",
     "concurrently": "^9.1.2",
+    "eslint": "^9.7.0",
+    "eslint-plugin-react": "^7.37.5",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "globals": "^17.7.0",
     "postcss": "^8.4.49",
     "rollup-plugin-visualizer": "^7.0.1",
     "tailwindcss": "^3.4.17",

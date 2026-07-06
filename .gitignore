@@ -51,6 +51,5 @@ config.json
 .cache/
 to_be_deleted/
 frontend/.npm-cache/
-
 .agents/
-
+.ruff_cache/

@@ -1,5 +1,6 @@
 # -*- mode: python ; coding: utf-8 -*-
 # Astrophoto Explorer - PyInstaller Configuration
+import sys
 
 block_cipher = None
 
@@ -39,7 +40,9 @@ a = Analysis(
         'unittest',
         'unittest.mock',
         'webview',
-        'tifffile'
+        'tifffile',
+        'clr',
+        'clr_loader'
     ],
     hookspath=[],
     hooksconfig={},
@@ -57,20 +60,25 @@ a = Analysis(
 
 pyz = PYZ(a.pure, a.zipped_data, cipher=block_cipher)
 
-splash = Splash(
-    'splash_screen.png',
-    binaries=a.binaries,
-    datas=a.datas,
-    text_pos=None,
-    text_size=12,
-    always_on_top=True
-)
+# Splash screen is not supported on macOS
+show_splash = sys.platform != 'darwin'
+
+if show_splash:
+    splash = Splash(
+        'splash_screen.png',
+        binaries=a.binaries,
+        datas=a.datas,
+        text_pos=None,
+        text_size=12,
+        always_on_top=True
+    )
+    exe_args = [pyz, a.scripts, splash, []]
+else:
+    splash = None
+    exe_args = [pyz, a.scripts, []]
 
 exe = EXE(
-    pyz,
-    a.scripts,
-    splash,
-    [],
+    *exe_args,
     exclude_binaries=True,
     name='astrophoto-explorer',
     debug=False,
@@ -83,15 +91,16 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
-    icon='icon.ico'
+    icon=None if sys.platform == 'darwin' else 'icon.ico'
 )
 
+if show_splash:
+    coll_args = [exe, splash.binaries, a.binaries, a.zipfiles, a.datas]
+else:
+    coll_args = [exe, a.binaries, a.zipfiles, a.datas]
+
 coll = COLLECT(
-    exe,
-    splash.binaries,
-    a.binaries,
-    a.zipfiles,
-    a.datas,
+    *coll_args,
     strip=False,
     upx=False,
     upx_exclude=[],

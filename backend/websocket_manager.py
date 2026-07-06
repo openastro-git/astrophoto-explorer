@@ -1,19 +1,19 @@
 """
 WebSocket manager for real-time progress updates during catalog scanning.
 """
+
 from fastapi import WebSocket
 from typing import Set
-import asyncio
-import json
 import sys
 
 # Configure UTF-8 output for Windows console
-if sys.platform == 'win32':
+if sys.platform == "win32":
     try:
-        sys.stdout.reconfigure(encoding='utf-8')
-        sys.stderr.reconfigure(encoding='utf-8')
+        sys.stdout.reconfigure(encoding="utf-8")
+        sys.stderr.reconfigure(encoding="utf-8")
     except Exception:
         pass  # Ignore if reconfigure not available
+
 
 class ConnectionManager:
     def __init__(self):
@@ -35,7 +35,7 @@ class ConnectionManager:
             except Exception as e:
                 print(f"  [ERROR] Failed to send to client: {e}")
                 disconnected.add(connection)
-        
+
         # Clean up disconnected clients
         for conn in disconnected:
             self.disconnect(conn)
@@ -46,5 +46,6 @@ class ConnectionManager:
             await websocket.send_text(message)
         except Exception:
             self.disconnect(websocket)
+
 
 manager = ConnectionManager()

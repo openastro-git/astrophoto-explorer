@@ -1,4 +1,5 @@
 """Thumbnail generation for FITS and image files."""
+
 import hashlib
 import numpy as np
 from pathlib import Path
@@ -30,7 +31,7 @@ def generate_thumbnail(file_path, thumb_size=(300, 300)):
         file_ext = Path(file_path).suffix.lower()
 
         # Handle FITS files
-        if file_ext in ['.fits', '.fit', '.fts']:
+        if file_ext in [".fits", ".fit", ".fts"]:
             hdul = None
             try:
                 hdul = fits.open(file_path, memmap=True)
@@ -94,25 +95,25 @@ def generate_thumbnail(file_path, thumb_size=(300, 300)):
                 if data.ndim == 2:
                     interval = ZScaleInterval()
                     vmin, vmax = interval.get_limits(data)
-                    normalized = ((data - vmin) / (vmax - vmin) * 255).clip(0, 255).astype('uint8')
-                    img = Image.fromarray(normalized, mode='L')
+                    normalized = ((data - vmin) / (vmax - vmin) * 255).clip(0, 255).astype("uint8")
+                    img = Image.fromarray(normalized, mode="L")
                 else:
                     # RGB data
                     preview = np.zeros((*data.shape[:2], 3), dtype=np.uint8)
                     for i in range(min(3, data.shape[2])):
                         interval = ZScaleInterval()
                         vmin, vmax = interval.get_limits(data[:, :, i])
-                        preview[:, :, i] = ((data[:, :, i] - vmin) / (vmax - vmin) * 255).clip(0, 255).astype('uint8')
-                    img = Image.fromarray(preview, mode='RGB')
+                        preview[:, :, i] = ((data[:, :, i] - vmin) / (vmax - vmin) * 255).clip(0, 255).astype("uint8")
+                    img = Image.fromarray(preview, mode="RGB")
             finally:
                 if hdul:
                     hdul.close()
 
         # Handle image files
-        elif file_ext in ['.png', '.tif', '.tiff']:
+        elif file_ext in [".png", ".tif", ".tiff"]:
             img = Image.open(file_path)
-            if img.mode not in ['RGB', 'L']:
-                img = img.convert('RGB')
+            if img.mode not in ["RGB", "L"]:
+                img = img.convert("RGB")
         else:
             return None
 
@@ -120,25 +121,25 @@ def generate_thumbnail(file_path, thumb_size=(300, 300)):
         # First resize to fit the smallest dimension to thumb_size
         img_width, img_height = img.size
         target_size = thumb_size[0]  # 300x300
-        
+
         # Calculate scaling to make smallest dimension = target_size
         scale = target_size / min(img_width, img_height)
         new_width = int(img_width * scale)
         new_height = int(img_height * scale)
-        
+
         # Resize image
         img = img.resize((new_width, new_height), Image.Resampling.BILINEAR)
-        
+
         # Crop center to make it square
         left = (new_width - target_size) // 2
         top = (new_height - target_size) // 2
         right = left + target_size
         bottom = top + target_size
-        
+
         img = img.crop((left, top, right, bottom))
-        
+
         # Save thumbnail
-        img.save(thumb_path, 'JPEG', quality=80, optimize=False)
+        img.save(thumb_path, "JPEG", quality=80, optimize=False)
 
         return str(thumb_path)
 

@@ -15,16 +15,20 @@ import { createObjectMarkers, updateLabelVisibility } from './skymap/objectMarke
 import NavigationToolbar from './skymap/NavigationToolbar';
 import InfoPanel from './skymap/InfoPanel';
 import ObjectTooltip from './skymap/ObjectTooltip';
+// Module-level cache to persist loaded data across unmounts/mounts
+let cachedCelestialData = null;
 
 function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuery = '', targetObject = '', onTargetReached }) {
   const containerRef = useRef(null);
   const { sceneRef, cameraRef, rendererRef, animationFrameRef } = useThreeScene(containerRef, 120);
 
-  const [dataLoaded, setDataLoaded] = useState(false);
-  const [loadedData, setLoadedData] = useState({ stars: null, constellations: null });
+  const [dataLoaded, setDataLoaded] = useState(!!cachedCelestialData);
+  const [loadedData, setLoadedData] = useState(cachedCelestialData || { stars: null, constellations: null });
 
   // Load star and constellation catalog data asynchronously on mount
   useEffect(() => {
+    if (cachedCelestialData) return;
+
     let active = true;
     Promise.all([
       fetch('./assets/data/stars.6.json').then(res => {
@@ -37,7 +41,9 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
       })
     ]).then(([stars, constellations]) => {
       if (active) {
-        setLoadedData({ stars, constellations });
+        const data = { stars, constellations };
+        cachedCelestialData = data;
+        setLoadedData(data);
         setDataLoaded(true);
       }
     }).catch(err => {
@@ -50,6 +56,8 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
 
   const controlsRef = useRef({
     isDragging: false,
+    hasDragged: false,
+    dragStart: { x: 0, y: 0 },
     previousMouse: { x: 0, y: 0 },
     isAnimating: false,
     animationStartTime: 0,
@@ -71,6 +79,7 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
   const celestialGridRef = useRef(null);
   const celestialEquatorRef = useRef(null);
   const ncpMarkerRef = useRef(null);
+  const isInitialMountRef = useRef(true);
 
   const [hoveredObject, setHoveredObject] = useState(null);
   const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 });
@@ -228,7 +237,7 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
     }
   }, [searchQuery, groups]);
 
-  // Handle target object navigation (animated)
+  // Handle target object navigation (animated or instant on mount)
   useEffect(() => {
     if (!targetObject.trim() || !cameraRef.current || !groups.length) return;
 
@@ -251,23 +260,37 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
       const lookAtMatrix = new THREE.Matrix4();
       lookAtMatrix.lookAt(camera.position, targetPos, new THREE.Vector3(0, 1, 0));
 
-      // Set up animation
-      controlsRef.current.startQuaternion.copy(camera.quaternion);
-      controlsRef.current.targetQuaternion.setFromRotationMatrix(lookAtMatrix);
-      controlsRef.current.isAnimating = true;
-      controlsRef.current.animationStartTime = performance.now();
+      if (isInitialMountRef.current) {
+        // Skip animation on initial mount and position instantly
+        camera.quaternion.setFromRotationMatrix(lookAtMatrix);
+        isInitialMountRef.current = false;
+        if (onTargetReached) {
+          onTargetReached();
+        }
+      } else {
+        // Set up animation
+        controlsRef.current.startQuaternion.copy(camera.quaternion);
+        controlsRef.current.targetQuaternion.setFromRotationMatrix(lookAtMatrix);
+        controlsRef.current.isAnimating = true;
+        controlsRef.current.animationStartTime = performance.now();
+
+        // Notify parent when animation completes
+        if (onTargetReached) {
+          setTimeout(() => {
+            onTargetReached();
+          }, controlsRef.current.animationDuration);
+        }
+      }
 
       needsRenderRef.current = true;
       lastInteractionTimeRef.current = performance.now();
-
-      // Notify parent when animation completes
-      if (onTargetReached) {
-        setTimeout(() => {
-          onTargetReached();
-        }, controlsRef.current.animationDuration);
-      }
     }
   }, [targetObject, groups, onTargetReached]);
+
+  // Set isInitialMountRef to false after the component has mounted
+  useEffect(() => {
+    isInitialMountRef.current = false;
+  }, []);
 
   // Update object markers when groups change
   useEffect(() => {
@@ -308,6 +331,8 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
     const onMouseDown = (event) => {
       controlsRef.current.isAnimating = false;
       controlsRef.current.isDragging = true;
+      controlsRef.current.hasDragged = false;
+      controlsRef.current.dragStart = { x: event.clientX, y: event.clientY };
       controlsRef.current.previousMouse = { x: event.clientX, y: event.clientY };
       isInteractingRef.current = true;
       lastInteractionTimeRef.current = performance.now();
@@ -317,6 +342,15 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
       if (controlsRef.current.isDragging) {
         const deltaX = event.clientX - controlsRef.current.previousMouse.x;
         const deltaY = event.clientY - controlsRef.current.previousMouse.y;
+
+        // Calculate drag distance from the start of the interaction
+        const totalDeltaX = event.clientX - controlsRef.current.dragStart.x;
+        const totalDeltaY = event.clientY - controlsRef.current.dragStart.y;
+        const dragDistance = Math.sqrt(totalDeltaX * totalDeltaX + totalDeltaY * totalDeltaY);
+        if (dragDistance > 5) {
+          controlsRef.current.hasDragged = true;
+        }
+
         const sensitivity = 0.002;
 
         const quaternionY = new THREE.Quaternion();
@@ -358,7 +392,7 @@ function SkyMapThree({ groups, onObjectClick, milkyWayOpacity = 0.35, searchQuer
     const mouse = new THREE.Vector2();
 
     const onMouseClick = (event) => {
-      if (controlsRef.current.isDragging) return;
+      if (controlsRef.current.hasDragged) return;
 
       const rect = renderer.domElement.getBoundingClientRect();
       mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;

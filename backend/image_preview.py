@@ -1,5 +1,5 @@
 """Image preview generation with different sizes and stretch options."""
-import base64
+
 import json
 import numpy as np
 from io import BytesIO
@@ -17,26 +17,21 @@ def load_stretch_settings():
     """Load stretch settings from config file."""
     try:
         if CONFIG_FILE.exists():
-            with open(CONFIG_FILE, 'r') as f:
+            with open(CONFIG_FILE, "r") as f:
                 config = json.load(f)
-                return config.get('stretch', {})
+                return config.get("stretch", {})
     except Exception as e:
         print(f"Error loading stretch settings: {e}")
-    
+
     # Return defaults if config doesn't exist or has no stretch settings
-    return {
-        'target_background': 0.17,
-        'shadows_clipping': -2.8,
-        'contrast_boost': 1.1,
-        'linked_channels': True
-    }
+    return {"target_background": 0.17, "shadows_clipping": -2.8, "contrast_boost": 1.1, "linked_channels": True}
 
 
 def generate_preview(data):
     """Normalize 32-bit FITS data to 8-bit for Web Canvas using Z-Scale."""
     interval = ZScaleInterval()
     vmin, vmax = interval.get_limits(data)
-    normalized = ((data - vmin) / (vmax - vmin) * 255).clip(0, 255).astype('uint8')
+    normalized = ((data - vmin) / (vmax - vmin) * 255).clip(0, 255).astype("uint8")
     return normalized
 
 
@@ -45,7 +40,7 @@ def get_image_info(file_path):
     try:
         file_ext = Path(file_path).suffix.lower()
 
-        if file_ext in ['.fits', '.fit', '.fts']:
+        if file_ext in [".fits", ".fit", ".fts"]:
             hdul = None
             try:
                 hdul = fits.open(file_path, memmap=True)
@@ -61,8 +56,8 @@ def get_image_info(file_path):
                                 "width": shape[1] if len(shape) >= 2 else shape[0],
                                 "height": shape[0],
                                 "channels": shape[2] if len(shape) == 3 else 1,
-                                "bitpix": header.get('BITPIX', -32),
-                                "file_type": "fits"
+                                "bitpix": header.get("BITPIX", -32),
+                                "file_type": "fits",
                             }
                     except ValueError as e:
                         if "BZERO/BSCALE/BLANK" in str(e):
@@ -77,8 +72,8 @@ def get_image_info(file_path):
                                     "width": shape[1] if len(shape) >= 2 else shape[0],
                                     "height": shape[0],
                                     "channels": shape[2] if len(shape) == 3 else 1,
-                                    "bitpix": header.get('BITPIX', -32),
-                                    "file_type": "fits"
+                                    "bitpix": header.get("BITPIX", -32),
+                                    "file_type": "fits",
                                 }
                         raise
 
@@ -97,8 +92,8 @@ def get_image_info(file_path):
                                 "width": shape[1] if len(shape) >= 2 else shape[0],
                                 "height": shape[0],
                                 "channels": shape[2] if len(shape) == 3 else 1,
-                                "bitpix": header.get('BITPIX', -32),
-                                "file_type": "fits"
+                                "bitpix": header.get("BITPIX", -32),
+                                "file_type": "fits",
                             }
                     return {"error": "No image data in FITS file"}
                 raise
@@ -106,13 +101,13 @@ def get_image_info(file_path):
                 if hdul:
                     hdul.close()
 
-        elif file_ext in ['.png', '.tif', '.tiff']:
+        elif file_ext in [".png", ".tif", ".tiff"]:
             img = Image.open(file_path)
             return {
                 "width": img.width,
                 "height": img.height,
                 "channels": len(img.getbands()),
-                "file_type": file_ext.replace('.', '')
+                "file_type": file_ext.replace(".", ""),
             }
 
         else:
@@ -120,7 +115,6 @@ def get_image_info(file_path):
 
     except Exception as e:
         return {"error": str(e)}
-
 
 
 def get_fits_preview(file_path, size="medium", stretch="mtf"):
@@ -139,16 +133,11 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
         file_ext = Path(file_path).suffix.lower()
 
         # Determine target size
-        size_map = {
-            "thumbnail": (300, 300),
-            "medium": (800, 800),
-            "large": (1600, 1600),
-            "full": None
-        }
+        size_map = {"thumbnail": (300, 300), "medium": (800, 800), "large": (1600, 1600), "full": None}
         target_size = size_map.get(size, (800, 800))
 
         # Handle FITS files
-        if file_ext in ['.fits', '.fit', '.fts']:
+        if file_ext in [".fits", ".fit", ".fts"]:
             # Try memory mapping first, fall back to regular loading if needed
             hdul = None
             use_memmap = True
@@ -231,35 +220,35 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
                     stretch_settings = load_stretch_settings()
                     if target_size:
                         preview = generate_preview_mtf(
-                            data, 
+                            data,
                             size=target_size,
-                            target_background=stretch_settings.get('target_background', 0.17),
-                            shadows_clipping=stretch_settings.get('shadows_clipping', -2.8),
-                            contrast_boost=stretch_settings.get('contrast_boost', 1.1),
-                            linked_channels=stretch_settings.get('linked_channels', True)
+                            target_background=stretch_settings.get("target_background", 0.17),
+                            shadows_clipping=stretch_settings.get("shadows_clipping", -2.8),
+                            contrast_boost=stretch_settings.get("contrast_boost", 1.1),
+                            linked_channels=stretch_settings.get("linked_channels", True),
                         )
                     else:
                         stretch_settings = load_stretch_settings()
-                        use_linked = stretch_settings.get('linked_channels', True)
+                        use_linked = stretch_settings.get("linked_channels", True)
                         if use_linked:
                             stretched = auto_stretch_linked(
                                 data,
-                                target_background=stretch_settings.get('target_background', 0.17),
-                                shadows_clipping=stretch_settings.get('shadows_clipping', -2.8)
+                                target_background=stretch_settings.get("target_background", 0.17),
+                                shadows_clipping=stretch_settings.get("shadows_clipping", -2.8),
                             )
                         else:
                             stretched = auto_stretch_unlinked(
                                 data,
-                                target_background=stretch_settings.get('target_background', 0.17),
-                                shadows_clipping=stretch_settings.get('shadows_clipping', -2.8)
+                                target_background=stretch_settings.get("target_background", 0.17),
+                                shadows_clipping=stretch_settings.get("shadows_clipping", -2.8),
                             )
-                        preview = (stretched * 255).clip(0, 255).astype('uint8')
+                        preview = (stretched * 255).clip(0, 255).astype("uint8")
                 else:
                     # Use Z-scale (legacy)
                     if data.ndim == 2:
                         interval = ZScaleInterval()
                         vmin, vmax = interval.get_limits(data)
-                        normalized = ((data - vmin) / (vmax - vmin) * 255).clip(0, 255).astype('uint8')
+                        normalized = ((data - vmin) / (vmax - vmin) * 255).clip(0, 255).astype("uint8")
                         preview = normalized
                     else:
                         # RGB data
@@ -267,13 +256,15 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
                         for i in range(min(3, data.shape[2])):
                             interval = ZScaleInterval()
                             vmin, vmax = interval.get_limits(data[:, :, i])
-                            preview[:, :, i] = ((data[:, :, i] - vmin) / (vmax - vmin) * 255).clip(0, 255).astype('uint8')
+                            preview[:, :, i] = (
+                                ((data[:, :, i] - vmin) / (vmax - vmin) * 255).clip(0, 255).astype("uint8")
+                            )
 
                 # Convert to PIL Image
                 if preview.ndim == 2:
-                    img = Image.fromarray(preview, mode='L')
+                    img = Image.fromarray(preview, mode="L")
                 else:
-                    img = Image.fromarray(preview, mode='RGB')
+                    img = Image.fromarray(preview, mode="RGB")
 
                 # Resize if needed and not already done
                 if target_size and stretch != "mtf":
@@ -282,7 +273,7 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
                 buffer = BytesIO()
                 # Use JPEG with quality=95 for full size to preserve star profiles/noise details, and quality=90 for others
                 q = 95 if size == "full" else 90
-                img.save(buffer, format='JPEG', quality=q)
+                img.save(buffer, format="JPEG", quality=q)
                 img_bytes = buffer.getvalue()
 
                 # Extract metadata for FITS files
@@ -293,27 +284,27 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
                     "shape": data.shape,
                     "stretch": stretch,
                     "size": size,
-                    "file_type": "fits"
+                    "file_type": "fits",
                 }
-                
+
                 # Add metadata fields if available
-                if 'object' in meta:
-                    result['object'] = meta['object']
-                if 'astrometry' in meta:
-                    result['astrometry'] = meta['astrometry']
-                
+                if "object" in meta:
+                    result["object"] = meta["object"]
+                if "astrometry" in meta:
+                    result["astrometry"] = meta["astrometry"]
+
                 return result
             finally:
                 if hdul:
                     hdul.close()
 
         # Handle image files (PNG, TIFF)
-        elif file_ext in ['.png', '.tif', '.tiff']:
+        elif file_ext in [".png", ".tif", ".tiff"]:
             img = Image.open(file_path)
 
             # Convert to RGB if needed
-            if img.mode not in ['RGB', 'L']:
-                img = img.convert('RGB')
+            if img.mode not in ["RGB", "L"]:
+                img = img.convert("RGB")
 
             # Resize if needed
             if target_size:
@@ -322,7 +313,7 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
             buffer = BytesIO()
             # Use JPEG with quality=95 for full size to preserve details, and quality=90 for others
             q = 95 if size == "full" else 90
-            img.save(buffer, format='JPEG', quality=q)
+            img.save(buffer, format="JPEG", quality=q)
             img_bytes = buffer.getvalue()
 
             # Extract metadata for PNG/TIFF files
@@ -333,15 +324,15 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
                 "shape": (img.height, img.width),
                 "stretch": "none",
                 "size": size,
-                "file_type": file_ext.replace('.', '')
+                "file_type": file_ext.replace(".", ""),
             }
-            
+
             # Add metadata fields if available
-            if 'object' in meta:
-                result['object'] = meta['object']
-            if 'astrometry' in meta:
-                result['astrometry'] = meta['astrometry']
-            
+            if "object" in meta:
+                result["object"] = meta["object"]
+            if "astrometry" in meta:
+                result["astrometry"] = meta["astrometry"]
+
             return result
 
         else:
@@ -350,6 +341,7 @@ def get_fits_preview(file_path, size="medium", stretch="mtf"):
     except Exception as e:
         print(f"Error in get_fits_preview: {e}")
         import traceback
+
         traceback.print_exc()
         return {"error": str(e)}
 
