@@ -16,6 +16,30 @@ A modern dual-stack application for exploring local FITS astronomical imagery us
 - **Fast Preview Generation**: Lazy-loads FITS image pixels only when a preview is generated.
 - **Multi-session Support**: Groups observation images by deep-sky object across observation dates/sessions.
 
+## Screenshots
+
+<details>
+  <summary>📸 Click to view application screenshots</summary>
+  <br/>
+
+  ### Grid View
+  _Organized layout of scanned FITS astronomical images grouped by deep-sky object catalog name._
+  ![Grid View](docs/screenshots/grid-view.jpg)
+
+  ### Interactive 3D Sky Map
+  _Interactive celestial sphere mapping constellations, grids, equatorial lines, and celestial coordinates._
+  ![Map View](docs/screenshots/map-view.jpg)
+
+  ### Image Preview & Autostretch Panel
+  _Advanced Z-Scale and MTF stretch options with real-time previewing and interactive FITS metadata editing._
+  ![Image Preview](docs/screenshots/imageview.jpg)
+
+  ### Settings & Themes Configuration
+  _Configuration panel for scanner settings, folder selections, and custom styling themes._
+  ![Settings](docs/screenshots/settings.jpg)
+
+</details>
+
 ## Tech Stack
 
 - **Backend**: FastAPI + Astropy + NumPy + PyONGC + PyWebView
@@ -86,6 +110,8 @@ astrophoto-explorer/
 │   ├── stretch.py       # Advanced MTF (Midtone Transfer Function) stretching mathematical functions
 │   ├── thumbnail_generator.py # Thumbnail extraction for list views
 │   └── websocket_manager.py # WS connections organizer
+├── docs/
+│   └── screenshots/     # Clean, metadata-stripped application screenshots
 ├── frontend/
 │   └── src/
 │       ├── api/         # Axios-free vanilla JS fetch client configurations
